@@ -1,21 +1,29 @@
 package com.googledrive.client.test;
 
 import com.googledrive.core.models.PeticionArchivo;
+import com.googledrive.core.utils.Utils;
 import java.io.*;
 import java.net.Socket;
+import javax.net.ssl.SSLSocketFactory;
 
 public class ClientePruebaAlmacenamiento {
     private static final String HOST = "127.0.0.1";
     private static final int PUERTO = 9000;
 
     public static void main(String[] args) {
-        System.out.println("Iniciando prueba de red (Cliente -> Nodo de Almacenamiento)...");
+        // Configuramos el trustStore para confiar en el certificado autofirmado del servidor local
+        System.setProperty("javax.net.ssl.trustStore", "keystore.jks");
+        System.setProperty("javax.net.ssl.trustStorePassword", "password");
+
+        System.out.println("Iniciando prueba de red TLS (Cliente -> Nodo de Almacenamiento)...");
         ejecutarPruebaSubida();
     }
 
     private static void ejecutarPruebaSubida() {
-        // Se utiliza try-with-resources para garantizar el cierre del Socket
-        try (Socket socket = new Socket(HOST, PUERTO);
+        SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
+        
+        // Se utiliza try-with-resources para garantizar el cierre del Socket seguro
+        try (Socket socket = ssf.createSocket(HOST, PUERTO);
              OutputStream out = socket.getOutputStream();
              InputStream in = socket.getInputStream();
              // El ObjectOutputStream debe inicializarse ANTES que el ObjectInputStream para evitar bloqueos
@@ -27,14 +35,17 @@ public class ClientePruebaAlmacenamiento {
             byte[] bytesArchivo = contenidoSimulado.getBytes();
             String nombreArchivo = "prueba_conexion.txt";
 
-            System.out.println("Conectado al servidor. Transfiriendo archivo: " + nombreArchivo);
+            System.out.println("Conectado al servidor TLS. Transfiriendo archivo: " + nombreArchivo);
 
-            // 2. Transmisión de Control (Marshalling)
+            // 2. Transmisión de Control (Marshalling avanzado con Checksum)
+            String md5 = Utils.calcularChecksum(bytesArchivo);
             PeticionArchivo peticion = new PeticionArchivo(
                 PeticionArchivo.Operacion.SUBIR, 
                 nombreArchivo, 
                 bytesArchivo.length
             );
+            peticion.setChecksum(md5);
+            
             oos.writeObject(peticion);
             oos.flush();
 
@@ -47,7 +58,7 @@ public class ClientePruebaAlmacenamiento {
             System.out.println("Respuesta del servidor: " + respuestaServidor);
 
         } catch (IOException e) {
-            System.err.println("Fallo en la conexión de red: " + e.getMessage());
+            System.err.println("Fallo en la conexión segura de red: " + e.getMessage());
         }
     }
 }

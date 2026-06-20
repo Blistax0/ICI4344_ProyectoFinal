@@ -2,6 +2,7 @@ package com.googledrive.storage.server;
 
 import java.io.*;
 import java.net.Socket;
+import java.net.SocketTimeoutException;
 import com.googledrive.core.models.PeticionArchivo;
 
 public class FtpWorker implements Runnable {
@@ -24,21 +25,31 @@ public class FtpWorker implements Runnable {
             GestorArchivosLocal gestor = new GestorArchivosLocal();
 
             if (peticion.getTipoOperacion() == PeticionArchivo.Operacion.SUBIR) {
-                gestor.guardarArchivo(peticion.getNombreArchivo(), in, peticion.getTamanoBytes());
-                oos.writeUTF("EXITO: Archivo subido correctamente.");
+                String checksumLocal = gestor.guardarArchivo(peticion.getNombreArchivo(), in, peticion.getTamanoBytes());
+                if (peticion.getChecksum() != null && !peticion.getChecksum().equals(checksumLocal)) {
+                    oos.writeUTF("ERROR: Archivo corrupto. El Checksum MD5 no coincide.");
+                } else {
+                    oos.writeUTF("EXITO: Archivo subido correctamente.");
+                }
             } else if (peticion.getTipoOperacion() == PeticionArchivo.Operacion.DESCARGAR) {
                 gestor.enviarArchivo(peticion.getNombreArchivo(), out);
             } else if (peticion.getTipoOperacion() == PeticionArchivo.Operacion.EDITAR) {
                 // escribimos el texto nuevo de forma segura (con los locks)
-                gestor.editarArchivo(peticion.getNombreArchivo(), in, peticion.getTamanoBytes());
-                // avisamos que salio bien
-                oos.writeUTF("EXITO: Archivo editado. Sincronizando estado...");
+                String checksumLocal = gestor.editarArchivo(peticion.getNombreArchivo(), in, peticion.getTamanoBytes());
+                if (peticion.getChecksum() != null && !peticion.getChecksum().equals(checksumLocal)) {
+                    oos.writeUTF("ERROR: Edición corrupta. El Checksum MD5 no coincide.");
+                } else {
+                    // avisamos que salio bien
+                    oos.writeUTF("EXITO: Archivo editado. Sincronizando estado...");
+                }
                 oos.flush();
                 // le devolvemos el archivo entero para que el cliente lo tenga actualizado y sincronizado
                 gestor.enviarArchivo(peticion.getNombreArchivo(), out);
             }
             oos.flush();
 
+        } catch (SocketTimeoutException e) {
+            System.err.println("Timeout de conexión en FtpWorker: " + e.getMessage());
         } catch (EOFException | java.net.SocketException e) {
             // por si se cae el internet o el cliente se desconecta de la nada
             System.err.println("Error de red: El cliente se desconectó abruptamente. " + e.getMessage());

@@ -1,7 +1,9 @@
 package com.googledrive.client.sync;
 
 import com.googledrive.core.models.PeticionArchivo;
+import com.googledrive.core.utils.Utils;
 
+import javax.net.ssl.SSLSocketFactory;
 import java.io.*;
 import java.net.Socket;
 
@@ -11,7 +13,10 @@ public class ClientePruebaSincronizacion {
     private static final String ARCHIVO_SYNC = "documento_compartido.txt";
 
     public static void main(String[] args) {
-        System.out.println("=== Iniciando Prueba de Sincronización Concurrente (Estilo Google Docs) ===");
+        System.setProperty("javax.net.ssl.trustStore", "keystore.jks");
+        System.setProperty("javax.net.ssl.trustStorePassword", "password");
+
+        System.out.println("=== Iniciando Prueba de Sincronización Concurrente (TLS) ===");
         System.out.println("Se lanzarán 3 clientes simultáneos para editar el mismo archivo...\n");
 
         // creamos 3 hilos para probar que 3 usuarios distintos editen el archivo a la vez
@@ -46,21 +51,25 @@ public class ClientePruebaSincronizacion {
             Thread.currentThread().interrupt();
         }
 
-        try (Socket socket = new Socket(HOST, PUERTO);
+        SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
+
+        try (Socket socket = ssf.createSocket(HOST, PUERTO);
                 OutputStream out = socket.getOutputStream();
                 InputStream in = socket.getInputStream();
                 ObjectOutputStream oos = new ObjectOutputStream(out);
                 ObjectInputStream ois = new ObjectInputStream(in)) {
 
             byte[] bytesAporte = textoAgregar.getBytes();
+            String md5 = Utils.calcularChecksum(bytesAporte);
 
-            System.out.println("[" + nombreUsuario + "] Conectado. Enviando edición...");
+            System.out.println("[" + nombreUsuario + "] Conectado de forma segura. Enviando edición...");
 
-            // mandamos la peticion con el enum EDITAR
+            // mandamos la peticion con el enum EDITAR y el checksum
             PeticionArchivo peticion = new PeticionArchivo(
                     PeticionArchivo.Operacion.EDITAR,
                     ARCHIVO_SYNC,
                     bytesAporte.length);
+            peticion.setChecksum(md5);
             oos.writeObject(peticion);
             oos.flush();
 
