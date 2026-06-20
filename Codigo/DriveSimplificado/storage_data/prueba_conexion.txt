@@ -1,0 +1,1 @@
+Este es un flujo de bytes de prueba para el sistema distribuido. Archivo generado correctamente.
