@@ -1,0 +1,2162 @@
+[Nodo: cliente-31 | Lamport: 256] Edicion hilo 31 lamport=20
+
+[Nodo: cliente-33 | Lamport: 253] Edicion hilo 33 lamport=14
+
+[Nodo: cliente-11 | Lamport: 272] Edicion hilo 11 lamport=26
+
+[Nodo: cliente-6 | Lamport: 268] Edicion hilo 6 lamport=2
+
+[Nodo: cliente-36 | Lamport: 274] Edicion hilo 36 lamport=23
+
+[Nodo: cliente-8 | Lamport: 280] Edicion hilo 8 lamport=19
+
+[Nodo: cliente-5 | Lamport: 283] Edicion hilo 5 lamport=25
+
+[Nodo: cliente-38 | Lamport: 340] Edicion hilo 38 lamport=24
+
+[Nodo: cliente-18 | Lamport: 343] Edicion hilo 18 lamport=5
+
+[Nodo: cliente-29 | Lamport: 351] Edicion hilo 29 lamport=11
+
+[Nodo: cliente-39 | Lamport: 360] Edicion hilo 39 lamport=10
+
+[Nodo: cliente-25 | Lamport: 362] Edicion hilo 25 lamport=22
+
+[Nodo: cliente-12 | Lamport: 348] Edicion hilo 12 lamport=13
+
+[Nodo: cliente-3 | Lamport: 353] Edicion hilo 3 lamport=8
+
+[Nodo: cliente-19 | Lamport: 356] Edicion hilo 19 lamport=27
+
+[Nodo: cliente-21 | Lamport: 358] Edicion hilo 21 lamport=6
+
+[Nodo: cliente-44 | Lamport: 367] Edicion hilo 44 lamport=18
+
+[Nodo: cliente-2 | Lamport: 467] Edicion hilo 2 lamport=47
+
+[Nodo: cliente-37 | Lamport: 365] Edicion hilo 37 lamport=15
+
+[Nodo: cliente-10 | Lamport: 383] Edicion hilo 10 lamport=9
+
+[Nodo: cliente-35 | Lamport: 371] Edicion hilo 35 lamport=38
+
+[Nodo: cliente-9 | Lamport: 396] Edicion hilo 9 lamport=3
+
+[Nodo: cliente-42 | Lamport: 312] Edicion hilo 42 lamport=4
+
+[Nodo: cliente-22 | Lamport: 385] Edicion hilo 22 lamport=41
+
+[Nodo: cliente-28 | Lamport: 394] Edicion hilo 28 lamport=16
+
+[Nodo: cliente-46 | Lamport: 448] Edicion hilo 46 lamport=42
+
+[Nodo: cliente-7 | Lamport: 450] Edicion hilo 7 lamport=44
+
+[Nodo: cliente-45 | Lamport: 373] Edicion hilo 45 lamport=28
+
+[Nodo: cliente-40 | Lamport: 390] Edicion hilo 40 lamport=7
+
+[Nodo: cliente-17 | Lamport: 388] Edicion hilo 17 lamport=1
+
+[Nodo: cliente-14 | Lamport: 389] Edicion hilo 14 lamport=12
+
+[Nodo: cliente-1 | Lamport: 453] Edicion hilo 1 lamport=21
+
+[Nodo: cliente-41 | Lamport: 460] Edicion hilo 41 lamport=17
+
+[Nodo: cliente-4 | Lamport: 458] Edicion hilo 4 lamport=43
+
+[Nodo: cliente-34 | Lamport: 445] Edicion hilo 34 lamport=40
+
+[Nodo: cliente-30 | Lamport: 462] Edicion hilo 30 lamport=39
+
+[Nodo: cliente-24 | Lamport: 464] Edicion hilo 24 lamport=49
+
+[Nodo: cliente-33 | Lamport: 521] Edicion hilo 33 lamport=51
+
+[Nodo: cliente-15 | Lamport: 584] Edicion hilo 15 lamport=46
+
+[Nodo: cliente-16 | Lamport: 577] Edicion hilo 16 lamport=54
+
+[Nodo: cliente-5 | Lamport: 615] Edicion hilo 5 lamport=60
+
+[Nodo: cliente-8 | Lamport: 611] Edicion hilo 8 lamport=56
+
+[Nodo: cliente-32 | Lamport: 613] Edicion hilo 32 lamport=48
+
+[Nodo: cliente-47 | Lamport: 618] Edicion hilo 47 lamport=52
+
+[Nodo: cliente-49 | Lamport: 622] Edicion hilo 49 lamport=53
+
+[Nodo: cliente-26 | Lamport: 721] Edicion hilo 26 lamport=59
+
+[Nodo: cliente-2 | Lamport: 727] Edicion hilo 2 lamport=73
+
+[Nodo: cliente-21 | Lamport: 740] Edicion hilo 21 lamport=74
+
+[Nodo: cliente-0 | Lamport: 724] Edicion hilo 0 lamport=65
+
+[Nodo: cliente-38 | Lamport: 713] Edicion hilo 38 lamport=68
+
+[Nodo: cliente-12 | Lamport: 757] Edicion hilo 12 lamport=70
+
+[Nodo: cliente-14 | Lamport: 769] Edicion hilo 14 lamport=79
+
+[Nodo: cliente-30 | Lamport: 771] Edicion hilo 30 lamport=82
+
+[Nodo: cliente-44 | Lamport: 793] Edicion hilo 44 lamport=71
+
+[Nodo: cliente-37 | Lamport: 816] Edicion hilo 37 lamport=77
+
+[Nodo: cliente-1 | Lamport: 821] Edicion hilo 1 lamport=81
+
+[Nodo: cliente-28 | Lamport: 834] Edicion hilo 28 lamport=83
+
+[Nodo: cliente-7 | Lamport: 836] Edicion hilo 7 lamport=78
+
+[Nodo: cliente-4 | Lamport: 857] Edicion hilo 4 lamport=91
+
+[Nodo: cliente-23 | Lamport: 862] Edicion hilo 23 lamport=95
+
+[Nodo: cliente-42 | Lamport: 871] Edicion hilo 42 lamport=87
+
+[Nodo: cliente-16 | Lamport: 879] Edicion hilo 16 lamport=98
+
+[Nodo: cliente-34 | Lamport: 881] Edicion hilo 34 lamport=85
+
+[Nodo: cliente-20 | Lamport: 913] Edicion hilo 20 lamport=107
+
+[Nodo: cliente-33 | Lamport: 891] Edicion hilo 33 lamport=105
+
+[Nodo: cliente-47 | Lamport: 918] Edicion hilo 47 lamport=99
+
+[Nodo: cliente-15 | Lamport: 920] Edicion hilo 15 lamport=106
+
+[Nodo: cliente-45 | Lamport: 986] Edicion hilo 45 lamport=96
+
+[Nodo: cliente-2 | Lamport: 984] Edicion hilo 2 lamport=112
+
+[Nodo: cliente-32 | Lamport: 998] Edicion hilo 32 lamport=104
+
+[Nodo: cliente-6 | Lamport: 1001] Edicion hilo 6 lamport=103
+
+[Nodo: cliente-25 | Lamport: 1004] Edicion hilo 25 lamport=108
+
+[Nodo: cliente-24 | Lamport: 1006] Edicion hilo 24 lamport=75
+
+[Nodo: cliente-49 | Lamport: 1010] Edicion hilo 49 lamport=110
+
+[Nodo: cliente-39 | Lamport: 1012] Edicion hilo 39 lamport=113
+
+[Nodo: cliente-48 | Lamport: 1014] Edicion hilo 48 lamport=109
+
+[Nodo: cliente-8 | Lamport: 1061] Edicion hilo 8 lamport=132
+
+[Nodo: cliente-40 | Lamport: 1065] Edicion hilo 40 lamport=128
+
+[Nodo: cliente-44 | Lamport: 1067] Edicion hilo 44 lamport=129
+
+[Nodo: cliente-14 | Lamport: 1074] Edicion hilo 14 lamport=116
+
+[Nodo: cliente-28 | Lamport: 1086] Edicion hilo 28 lamport=134
+
+[Nodo: cliente-36 | Lamport: 1117] Edicion hilo 36 lamport=123
+
+[Nodo: cliente-42 | Lamport: 1128] Edicion hilo 42 lamport=131
+
+[Nodo: cliente-29 | Lamport: 1133] Edicion hilo 29 lamport=125
+
+[Nodo: cliente-10 | Lamport: 1135] Edicion hilo 10 lamport=119
+
+[Nodo: cliente-5 | Lamport: 1152] Edicion hilo 5 lamport=141
+
+[Nodo: cliente-19 | Lamport: 1142] Edicion hilo 19 lamport=127
+
+[Nodo: cliente-37 | Lamport: 1162] Edicion hilo 37 lamport=135
+
+[Nodo: cliente-33 | Lamport: 1190] Edicion hilo 33 lamport=146
+
+[Nodo: cliente-4 | Lamport: 1203] Edicion hilo 4 lamport=153
+
+[Nodo: cliente-16 | Lamport: 1180] Edicion hilo 16 lamport=143
+
+[Nodo: cliente-21 | Lamport: 1227] Edicion hilo 21 lamport=151
+
+[Nodo: cliente-23 | Lamport: 1266] Edicion hilo 23 lamport=158
+
+[Nodo: cliente-9 | Lamport: 1268] Edicion hilo 9 lamport=159
+
+[Nodo: cliente-7 | Lamport: 1278] Edicion hilo 7 lamport=142
+
+[Nodo: cliente-3 | Lamport: 1280] Edicion hilo 3 lamport=133
+
+[Nodo: cliente-15 | Lamport: 1282] Edicion hilo 15 lamport=139
+
+[Nodo: cliente-35 | Lamport: 1297] Edicion hilo 35 lamport=144
+
+[Nodo: cliente-22 | Lamport: 1305] Edicion hilo 22 lamport=148
+
+[Nodo: cliente-13 | Lamport: 1312] Edicion hilo 13 lamport=150
+
+[Nodo: cliente-18 | Lamport: 1310] Edicion hilo 18 lamport=145
+
+[Nodo: cliente-28 | Lamport: 1384] Edicion hilo 28 lamport=173
+
+[Nodo: cliente-26 | Lamport: 1382] Edicion hilo 26 lamport=170
+
+[Nodo: cliente-30 | Lamport: 1340] Edicion hilo 30 lamport=162
+
+[Nodo: cliente-46 | Lamport: 1335] Edicion hilo 46 lamport=160
+
+[Nodo: cliente-2 | Lamport: 1420] Edicion hilo 2 lamport=175
+
+[Nodo: cliente-0 | Lamport: 1428] Edicion hilo 0 lamport=177
+
+[Nodo: cliente-24 | Lamport: 1444] Edicion hilo 24 lamport=168
+
+[Nodo: cliente-40 | Lamport: 1459] Edicion hilo 40 lamport=166
+
+[Nodo: cliente-21 | Lamport: 1452] Edicion hilo 21 lamport=180
+
+[Nodo: cliente-44 | Lamport: 1462] Edicion hilo 44 lamport=172
+
+[Nodo: cliente-16 | Lamport: 1465] Edicion hilo 16 lamport=182
+
+[Nodo: cliente-38 | Lamport: 1472] Edicion hilo 38 lamport=161
+
+[Nodo: cliente-12 | Lamport: 1476] Edicion hilo 12 lamport=163
+
+[Nodo: cliente-27 | Lamport: 1522] Edicion hilo 27 lamport=195
+
+[Nodo: cliente-8 | Lamport: 1489] Edicion hilo 8 lamport=171
+
+[Nodo: cliente-11 | Lamport: 1507] Edicion hilo 11 lamport=174
+
+[Nodo: cliente-20 | Lamport: 1579] Edicion hilo 20 lamport=184
+
+[Nodo: cliente-5 | Lamport: 1577] Edicion hilo 5 lamport=201
+
+[Nodo: cliente-47 | Lamport: 1575] Edicion hilo 47 lamport=187
+
+[Nodo: cliente-18 | Lamport: 1573] Edicion hilo 18 lamport=200
+
+[Nodo: cliente-31 | Lamport: 1596] Edicion hilo 31 lamport=202
+
+[Nodo: cliente-6 | Lamport: 1612] Edicion hilo 6 lamport=190
+
+[Nodo: cliente-3 | Lamport: 1599] Edicion hilo 3 lamport=191
+
+[Nodo: cliente-48 | Lamport: 1549] Edicion hilo 48 lamport=183
+
+[Nodo: cliente-4 | Lamport: 1602] Edicion hilo 4 lamport=181
+
+[Nodo: cliente-41 | Lamport: 1645] Edicion hilo 41 lamport=206
+
+[Nodo: cliente-35 | Lamport: 1662] Edicion hilo 35 lamport=203
+
+[Nodo: cliente-36 | Lamport: 1686] Edicion hilo 36 lamport=196
+
+[Nodo: cliente-34 | Lamport: 1659] Edicion hilo 34 lamport=194
+
+[Nodo: cliente-26 | Lamport: 1694] Edicion hilo 26 lamport=212
+
+[Nodo: cliente-45 | Lamport: 1709] Edicion hilo 45 lamport=205
+
+[Nodo: cliente-43 | Lamport: 1720] Edicion hilo 43 lamport=207
+
+[Nodo: cliente-46 | Lamport: 1726] Edicion hilo 46 lamport=211
+
+[Nodo: cliente-10 | Lamport: 1722] Edicion hilo 10 lamport=215
+
+[Nodo: cliente-28 | Lamport: 1725] Edicion hilo 28 lamport=213
+
+[Nodo: cliente-2 | Lamport: 1729] Edicion hilo 2 lamport=209
+
+[Nodo: cliente-42 | Lamport: 1784] Edicion hilo 42 lamport=218
+
+[Nodo: cliente-0 | Lamport: 1792] Edicion hilo 0 lamport=216
+
+[Nodo: cliente-30 | Lamport: 1794] Edicion hilo 30 lamport=224
+
+[Nodo: cliente-20 | Lamport: 1834] Edicion hilo 20 lamport=236
+
+[Nodo: cliente-40 | Lamport: 1819] Edicion hilo 40 lamport=232
+
+[Nodo: cliente-8 | Lamport: 1837] Edicion hilo 8 lamport=234
+
+[Nodo: cliente-27 | Lamport: 1855] Edicion hilo 27 lamport=227
+
+[Nodo: cliente-4 | Lamport: 1864] Edicion hilo 4 lamport=237
+
+[Nodo: cliente-47 | Lamport: 1869] Edicion hilo 47 lamport=239
+
+[Nodo: cliente-22 | Lamport: 1884] Edicion hilo 22 lamport=231
+
+[Nodo: cliente-31 | Lamport: 1891] Edicion hilo 31 lamport=242
+
+[Nodo: cliente-26 | Lamport: 1913] Edicion hilo 26 lamport=244
+
+[Nodo: cliente-34 | Lamport: 1915] Edicion hilo 34 lamport=252
+
+[Nodo: cliente-15 | Lamport: 1934] Edicion hilo 15 lamport=229
+
+[Nodo: cliente-33 | Lamport: 1940] Edicion hilo 33 lamport=253
+
+[Nodo: cliente-5 | Lamport: 1936] Edicion hilo 5 lamport=240
+
+[Nodo: cliente-39 | Lamport: 1960] Edicion hilo 39 lamport=248
+
+[Nodo: cliente-41 | Lamport: 1981] Edicion hilo 41 lamport=251
+
+[Nodo: cliente-38 | Lamport: 2004] Edicion hilo 38 lamport=257
+
+[Nodo: cliente-44 | Lamport: 2024] Edicion hilo 44 lamport=269
+
+[Nodo: cliente-24 | Lamport: 2026] Edicion hilo 24 lamport=259
+
+[Nodo: cliente-9 | Lamport: 2046] Edicion hilo 9 lamport=275
+
+[Nodo: cliente-28 | Lamport: 2094] Edicion hilo 28 lamport=260
+
+[Nodo: cliente-0 | Lamport: 2074] Edicion hilo 0 lamport=278
+
+[Nodo: cliente-1 | Lamport: 2082] Edicion hilo 1 lamport=267
+
+[Nodo: cliente-23 | Lamport: 2085] Edicion hilo 23 lamport=266
+
+[Nodo: cliente-2 | Lamport: 2087] Edicion hilo 2 lamport=265
+
+[Nodo: cliente-43 | Lamport: 2090] Edicion hilo 43 lamport=261
+
+[Nodo: cliente-13 | Lamport: 2112] Edicion hilo 13 lamport=268
+
+[Nodo: cliente-16 | Lamport: 2119] Edicion hilo 16 lamport=273
+
+[Nodo: cliente-39 | Lamport: 2169] Edicion hilo 39 lamport=290
+
+[Nodo: cliente-47 | Lamport: 2184] Edicion hilo 47 lamport=281
+
+[Nodo: cliente-37 | Lamport: 2189] Edicion hilo 37 lamport=282
+
+[Nodo: cliente-15 | Lamport: 2194] Edicion hilo 15 lamport=294
+
+[Nodo: cliente-8 | Lamport: 2202] Edicion hilo 8 lamport=285
+
+[Nodo: cliente-6 | Lamport: 2248] Edicion hilo 6 lamport=301
+
+[Nodo: cliente-32 | Lamport: 2201] Edicion hilo 32 lamport=283
+
+[Nodo: cliente-34 | Lamport: 2207] Edicion hilo 34 lamport=287
+
+[Nodo: cliente-11 | Lamport: 2222] Edicion hilo 11 lamport=284
+
+[Nodo: cliente-48 | Lamport: 2209] Edicion hilo 48 lamport=297
+
+[Nodo: cliente-49 | Lamport: 2224] Edicion hilo 49 lamport=288
+
+[Nodo: cliente-20 | Lamport: 2205] Edicion hilo 20 lamport=277
+
+[Nodo: cliente-10 | Lamport: 2284] Edicion hilo 10 lamport=295
+
+[Nodo: cliente-45 | Lamport: 2316] Edicion hilo 45 lamport=309
+
+[Nodo: cliente-36 | Lamport: 2311] Edicion hilo 36 lamport=300
+
+[Nodo: cliente-26 | Lamport: 2314] Edicion hilo 26 lamport=302
+
+[Nodo: cliente-7 | Lamport: 2308] Edicion hilo 7 lamport=296
+
+[Nodo: cliente-25 | Lamport: 2322] Edicion hilo 25 lamport=306
+
+[Nodo: cliente-35 | Lamport: 2350] Edicion hilo 35 lamport=303
+
+[Nodo: cliente-19 | Lamport: 2358] Edicion hilo 19 lamport=314
+
+[Nodo: cliente-5 | Lamport: 2352] Edicion hilo 5 lamport=304
+
+[Nodo: cliente-21 | Lamport: 2428] Edicion hilo 21 lamport=310
+
+[Nodo: cliente-44 | Lamport: 2414] Edicion hilo 44 lamport=323
+
+[Nodo: cliente-27 | Lamport: 2449] Edicion hilo 27 lamport=307
+
+[Nodo: cliente-23 | Lamport: 2456] Edicion hilo 23 lamport=317
+
+[Nodo: cliente-4 | Lamport: 2470] Edicion hilo 4 lamport=324
+
+[Nodo: cliente-43 | Lamport: 2484] Edicion hilo 43 lamport=320
+
+[Nodo: cliente-3 | Lamport: 2505] Edicion hilo 3 lamport=336
+
+[Nodo: cliente-11 | Lamport: 2515] Edicion hilo 11 lamport=333
+
+[Nodo: cliente-30 | Lamport: 2533] Edicion hilo 30 lamport=321
+
+[Nodo: cliente-8 | Lamport: 2538] Edicion hilo 8 lamport=326
+
+[Nodo: cliente-32 | Lamport: 2554] Edicion hilo 32 lamport=343
+
+[Nodo: cliente-20 | Lamport: 2561] Edicion hilo 20 lamport=330
+
+[Nodo: cliente-6 | Lamport: 2567] Edicion hilo 6 lamport=341
+
+[Nodo: cliente-48 | Lamport: 2563] Edicion hilo 48 lamport=344
+
+[Nodo: cliente-17 | Lamport: 2600] Edicion hilo 17 lamport=356
+
+[Nodo: cliente-49 | Lamport: 2609] Edicion hilo 49 lamport=360
+
+[Nodo: cliente-0 | Lamport: 2648] Edicion hilo 0 lamport=362
+
+[Nodo: cliente-25 | Lamport: 2595] Edicion hilo 25 lamport=351
+
+[Nodo: cliente-44 | Lamport: 2675] Edicion hilo 44 lamport=368
+
+[Nodo: cliente-35 | Lamport: 2687] Edicion hilo 35 lamport=358
+
+[Nodo: cliente-23 | Lamport: 2693] Edicion hilo 23 lamport=361
+
+[Nodo: cliente-18 | Lamport: 2691] Edicion hilo 18 lamport=353
+
+[Nodo: cliente-42 | Lamport: 2723] Edicion hilo 42 lamport=342
+
+[Nodo: cliente-10 | Lamport: 2720] Edicion hilo 10 lamport=349
+
+[Nodo: cliente-36 | Lamport: 2743] Edicion hilo 36 lamport=348
+
+[Nodo: cliente-39 | Lamport: 2753] Edicion hilo 39 lamport=376
+
+[Nodo: cliente-21 | Lamport: 2746] Edicion hilo 21 lamport=369
+
+[Nodo: cliente-12 | Lamport: 2819] Edicion hilo 12 lamport=370
+
+[Nodo: cliente-2 | Lamport: 2812] Edicion hilo 2 lamport=383
+
+[Nodo: cliente-43 | Lamport: 2806] Edicion hilo 43 lamport=373
+
+[Nodo: cliente-40 | Lamport: 2838] Edicion hilo 40 lamport=393
+
+[Nodo: cliente-15 | Lamport: 2845] Edicion hilo 15 lamport=387
+
+[Nodo: cliente-38 | Lamport: 2852] Edicion hilo 38 lamport=388
+
+[Nodo: cliente-34 | Lamport: 2863] Edicion hilo 34 lamport=378
+
+[Nodo: cliente-48 | Lamport: 2860] Edicion hilo 48 lamport=380
+
+[Nodo: cliente-3 | Lamport: 2882] Edicion hilo 3 lamport=377
+
+[Nodo: cliente-29 | Lamport: 2885] Edicion hilo 29 lamport=379
+
+[Nodo: cliente-16 | Lamport: 2929] Edicion hilo 16 lamport=396
+
+[Nodo: cliente-4 | Lamport: 2942] Edicion hilo 4 lamport=375
+
+[Nodo: cliente-44 | Lamport: 2935] Edicion hilo 44 lamport=405
+
+[Nodo: cliente-27 | Lamport: 2943] Edicion hilo 27 lamport=392
+
+[Nodo: cliente-46 | Lamport: 2976] Edicion hilo 46 lamport=408
+
+[Nodo: cliente-31 | Lamport: 2985] Edicion hilo 31 lamport=399
+
+[Nodo: cliente-10 | Lamport: 3021] Edicion hilo 10 lamport=407
+
+[Nodo: cliente-9 | Lamport: 2959] Edicion hilo 9 lamport=395
+
+[Nodo: cliente-35 | Lamport: 3064] Edicion hilo 35 lamport=420
+
+[Nodo: cliente-25 | Lamport: 3080] Edicion hilo 25 lamport=398
+
+[Nodo: cliente-23 | Lamport: 3095] Edicion hilo 23 lamport=404
+
+[Nodo: cliente-36 | Lamport: 3047] Edicion hilo 36 lamport=416
+
+[Nodo: cliente-5 | Lamport: 3053] Edicion hilo 5 lamport=409
+
+[Nodo: cliente-19 | Lamport: 3075] Edicion hilo 19 lamport=410
+
+[Nodo: cliente-43 | Lamport: 3093] Edicion hilo 43 lamport=424
+
+[Nodo: cliente-12 | Lamport: 3107] Edicion hilo 12 lamport=428
+
+[Nodo: cliente-2 | Lamport: 3158] Edicion hilo 2 lamport=429
+
+[Nodo: cliente-28 | Lamport: 3171] Edicion hilo 28 lamport=439
+
+[Nodo: cliente-18 | Lamport: 3180] Edicion hilo 18 lamport=426
+
+[Nodo: cliente-15 | Lamport: 3179] Edicion hilo 15 lamport=425
+
+[Nodo: cliente-34 | Lamport: 3224] Edicion hilo 34 lamport=432
+
+[Nodo: cliente-29 | Lamport: 3201] Edicion hilo 29 lamport=431
+
+[Nodo: cliente-38 | Lamport: 3151] Edicion hilo 38 lamport=433
+
+[Nodo: cliente-21 | Lamport: 3221] Edicion hilo 21 lamport=434
+
+[Nodo: cliente-45 | Lamport: 3259] Edicion hilo 45 lamport=444
+
+[Nodo: cliente-27 | Lamport: 3276] Edicion hilo 27 lamport=440
+
+[Nodo: cliente-22 | Lamport: 3279] Edicion hilo 22 lamport=422
+
+[Nodo: cliente-14 | Lamport: 3275] Edicion hilo 14 lamport=442
+
+[Nodo: cliente-37 | Lamport: 3302] Edicion hilo 37 lamport=446
+
+[Nodo: cliente-35 | Lamport: 3310] Edicion hilo 35 lamport=462
+
+[Nodo: cliente-13 | Lamport: 3314] Edicion hilo 13 lamport=459
+
+[Nodo: cliente-46 | Lamport: 3321] Edicion hilo 46 lamport=448
+
+[Nodo: cliente-41 | Lamport: 3318] Edicion hilo 41 lamport=449
+
+[Nodo: cliente-40 | Lamport: 3339] Edicion hilo 40 lamport=467
+
+[Nodo: cliente-4 | Lamport: 3291] Edicion hilo 4 lamport=454
+
+[Nodo: cliente-23 | Lamport: 3362] Edicion hilo 23 lamport=471
+
+[Nodo: cliente-0 | Lamport: 3386] Edicion hilo 0 lamport=455
+
+[Nodo: cliente-48 | Lamport: 3384] Edicion hilo 48 lamport=456
+
+[Nodo: cliente-5 | Lamport: 3412] Edicion hilo 5 lamport=466
+
+[Nodo: cliente-49 | Lamport: 3417] Edicion hilo 49 lamport=460
+
+[Nodo: cliente-1 | Lamport: 3419] Edicion hilo 1 lamport=453
+
+[Nodo: cliente-36 | Lamport: 3438] Edicion hilo 36 lamport=470
+
+[Nodo: cliente-33 | Lamport: 3445] Edicion hilo 33 lamport=465
+
+[Nodo: cliente-26 | Lamport: 3458] Edicion hilo 26 lamport=472
+
+[Nodo: cliente-18 | Lamport: 3501] Edicion hilo 18 lamport=480
+
+[Nodo: cliente-44 | Lamport: 3519] Edicion hilo 44 lamport=475
+
+[Nodo: cliente-38 | Lamport: 3517] Edicion hilo 38 lamport=474
+
+[Nodo: cliente-30 | Lamport: 3608] Edicion hilo 30 lamport=486
+
+[Nodo: cliente-27 | Lamport: 3602] Edicion hilo 27 lamport=483
+
+[Nodo: cliente-15 | Lamport: 3532] Edicion hilo 15 lamport=476
+
+[Nodo: cliente-19 | Lamport: 3596] Edicion hilo 19 lamport=481
+
+[Nodo: cliente-37 | Lamport: 3564] Edicion hilo 37 lamport=494
+
+[Nodo: cliente-32 | Lamport: 3588] Edicion hilo 32 lamport=478
+
+[Nodo: cliente-2 | Lamport: 3616] Edicion hilo 2 lamport=489
+
+[Nodo: cliente-41 | Lamport: 3623] Edicion hilo 41 lamport=498
+
+[Nodo: cliente-16 | Lamport: 3650] Edicion hilo 16 lamport=488
+
+[Nodo: cliente-20 | Lamport: 3718] Edicion hilo 20 lamport=506
+
+[Nodo: cliente-40 | Lamport: 3738] Edicion hilo 40 lamport=505
+
+[Nodo: cliente-39 | Lamport: 3655] Edicion hilo 39 lamport=484
+
+[Nodo: cliente-18 | Lamport: 3743] Edicion hilo 18 lamport=519
+
+[Nodo: cliente-13 | Lamport: 3660] Edicion hilo 13 lamport=491
+
+[Nodo: cliente-33 | Lamport: 3745] Edicion hilo 33 lamport=514
+
+[Nodo: cliente-5 | Lamport: 3665] Edicion hilo 5 lamport=501
+
+[Nodo: cliente-1 | Lamport: 3689] Edicion hilo 1 lamport=499
+
+[Nodo: cliente-46 | Lamport: 3704] Edicion hilo 46 lamport=503
+
+[Nodo: cliente-14 | Lamport: 3726] Edicion hilo 14 lamport=507
+
+[Nodo: cliente-38 | Lamport: 3733] Edicion hilo 38 lamport=518
+
+[Nodo: cliente-49 | Lamport: 3762] Edicion hilo 49 lamport=515
+
+[Nodo: cliente-0 | Lamport: 3770] Edicion hilo 0 lamport=516
+
+[Nodo: cliente-17 | Lamport: 3833] Edicion hilo 17 lamport=527
+
+[Nodo: cliente-36 | Lamport: 3854] Edicion hilo 36 lamport=510
+
+[Nodo: cliente-12 | Lamport: 3847] Edicion hilo 12 lamport=521
+
+[Nodo: cliente-43 | Lamport: 3848] Edicion hilo 43 lamport=509
+
+[Nodo: cliente-41 | Lamport: 3901] Edicion hilo 41 lamport=533
+
+[Nodo: cliente-23 | Lamport: 3940] Edicion hilo 23 lamport=513
+
+[Nodo: cliente-15 | Lamport: 3936] Edicion hilo 15 lamport=538
+
+[Nodo: cliente-34 | Lamport: 3945] Edicion hilo 34 lamport=532
+
+[Nodo: cliente-14 | Lamport: 3987] Edicion hilo 14 lamport=549
+
+[Nodo: cliente-7 | Lamport: 4001] Edicion hilo 7 lamport=517
+
+[Nodo: cliente-47 | Lamport: 3997] Edicion hilo 47 lamport=528
+
+[Nodo: cliente-16 | Lamport: 4013] Edicion hilo 16 lamport=542
+
+[Nodo: cliente-18 | Lamport: 3989] Edicion hilo 18 lamport=547
+
+[Nodo: cliente-27 | Lamport: 4002] Edicion hilo 27 lamport=539
+
+[Nodo: cliente-2 | Lamport: 4005] Edicion hilo 2 lamport=536
+
+[Nodo: cliente-19 | Lamport: 3999] Edicion hilo 19 lamport=540
+
+[Nodo: cliente-22 | Lamport: 4028] Edicion hilo 22 lamport=546
+
+[Nodo: cliente-25 | Lamport: 4010] Edicion hilo 25 lamport=525
+
+[Nodo: cliente-11 | Lamport: 4026] Edicion hilo 11 lamport=526
+
+[Nodo: cliente-32 | Lamport: 4030] Edicion hilo 32 lamport=534
+
+[Nodo: cliente-1 | Lamport: 4048] Edicion hilo 1 lamport=548
+
+[Nodo: cliente-24 | Lamport: 4054] Edicion hilo 24 lamport=552
+
+[Nodo: cliente-26 | Lamport: 3976] Edicion hilo 26 lamport=524
+
+[Nodo: cliente-8 | Lamport: 4130] Edicion hilo 8 lamport=559
+
+[Nodo: cliente-6 | Lamport: 4136] Edicion hilo 6 lamport=554
+
+[Nodo: cliente-33 | Lamport: 4138] Edicion hilo 33 lamport=545
+
+[Nodo: cliente-15 | Lamport: 4159] Edicion hilo 15 lamport=569
+
+[Nodo: cliente-28 | Lamport: 4134] Edicion hilo 28 lamport=541
+
+[Nodo: cliente-49 | Lamport: 4171] Edicion hilo 49 lamport=565
+
+[Nodo: cliente-35 | Lamport: 4221] Edicion hilo 35 lamport=572
+
+[Nodo: cliente-37 | Lamport: 4235] Edicion hilo 37 lamport=576
+
+[Nodo: cliente-10 | Lamport: 4253] Edicion hilo 10 lamport=570
+
+[Nodo: cliente-36 | Lamport: 4260] Edicion hilo 36 lamport=575
+
+[Nodo: cliente-9 | Lamport: 4267] Edicion hilo 9 lamport=568
+
+[Nodo: cliente-42 | Lamport: 4270] Edicion hilo 42 lamport=567
+
+[Nodo: cliente-26 | Lamport: 4272] Edicion hilo 26 lamport=587
+
+[Nodo: cliente-46 | Lamport: 4305] Edicion hilo 46 lamport=577
+
+[Nodo: cliente-20 | Lamport: 4318] Edicion hilo 20 lamport=593
+
+[Nodo: cliente-47 | Lamport: 4316] Edicion hilo 47 lamport=588
+
+[Nodo: cliente-3 | Lamport: 4291] Edicion hilo 3 lamport=566
+
+[Nodo: cliente-14 | Lamport: 4361] Edicion hilo 14 lamport=586
+
+[Nodo: cliente-21 | Lamport: 4384] Edicion hilo 21 lamport=584
+
+[Nodo: cliente-40 | Lamport: 4396] Edicion hilo 40 lamport=595
+
+[Nodo: cliente-30 | Lamport: 4418] Edicion hilo 30 lamport=580
+
+[Nodo: cliente-34 | Lamport: 4425] Edicion hilo 34 lamport=583
+
+[Nodo: cliente-38 | Lamport: 4435] Edicion hilo 38 lamport=602
+
+[Nodo: cliente-33 | Lamport: 4448] Edicion hilo 33 lamport=604
+
+[Nodo: cliente-15 | Lamport: 4463] Edicion hilo 15 lamport=605
+
+[Nodo: cliente-31 | Lamport: 4490] Edicion hilo 31 lamport=600
+
+[Nodo: cliente-41 | Lamport: 4496] Edicion hilo 41 lamport=601
+
+[Nodo: cliente-11 | Lamport: 4497] Edicion hilo 11 lamport=603
+
+[Nodo: cliente-8 | Lamport: 4526] Edicion hilo 8 lamport=617
+
+[Nodo: cliente-28 | Lamport: 4511] Edicion hilo 28 lamport=612
+
+[Nodo: cliente-35 | Lamport: 4563] Edicion hilo 35 lamport=606
+
+[Nodo: cliente-29 | Lamport: 4574] Edicion hilo 29 lamport=613
+
+[Nodo: cliente-32 | Lamport: 4604] Edicion hilo 32 lamport=620
+
+[Nodo: cliente-34 | Lamport: 4646] Edicion hilo 34 lamport=643
+
+[Nodo: cliente-16 | Lamport: 4653] Edicion hilo 16 lamport=628
+
+[Nodo: cliente-5 | Lamport: 4668] Edicion hilo 5 lamport=639
+
+[Nodo: cliente-44 | Lamport: 4594] Edicion hilo 44 lamport=607
+
+[Nodo: cliente-48 | Lamport: 4673] Edicion hilo 48 lamport=630
+
+[Nodo: cliente-12 | Lamport: 4663] Edicion hilo 12 lamport=638
+
+[Nodo: cliente-0 | Lamport: 4686] Edicion hilo 0 lamport=629
+
+[Nodo: cliente-30 | Lamport: 4639] Edicion hilo 30 lamport=632
+
+[Nodo: cliente-45 | Lamport: 4697] Edicion hilo 45 lamport=636
+
+[Nodo: cliente-3 | Lamport: 4658] Edicion hilo 3 lamport=625
+
+[Nodo: cliente-10 | Lamport: 4739] Edicion hilo 10 lamport=651
+
+[Nodo: cliente-18 | Lamport: 4749] Edicion hilo 18 lamport=627
+
+[Nodo: cliente-22 | Lamport: 4850] Edicion hilo 22 lamport=647
+
+[Nodo: cliente-17 | Lamport: 4754] Edicion hilo 17 lamport=646
+
+[Nodo: cliente-8 | Lamport: 4854] Edicion hilo 8 lamport=656
+
+[Nodo: cliente-31 | Lamport: 4857] Edicion hilo 31 lamport=652
+
+[Nodo: cliente-42 | Lamport: 4761] Edicion hilo 42 lamport=641
+
+[Nodo: cliente-41 | Lamport: 4851] Edicion hilo 41 lamport=649
+
+[Nodo: cliente-26 | Lamport: 4873] Edicion hilo 26 lamport=660
+
+[Nodo: cliente-27 | Lamport: 4889] Edicion hilo 27 lamport=653
+
+[Nodo: cliente-23 | Lamport: 4882] Edicion hilo 23 lamport=658
+
+[Nodo: cliente-2 | Lamport: 4888] Edicion hilo 2 lamport=665
+
+[Nodo: cliente-49 | Lamport: 4892] Edicion hilo 49 lamport=650
+
+[Nodo: cliente-28 | Lamport: 4907] Edicion hilo 28 lamport=669
+
+[Nodo: cliente-4 | Lamport: 4932] Edicion hilo 4 lamport=678
+
+[Nodo: cliente-30 | Lamport: 4942] Edicion hilo 30 lamport=675
+
+[Nodo: cliente-9 | Lamport: 4937] Edicion hilo 9 lamport=674
+
+[Nodo: cliente-36 | Lamport: 4997] Edicion hilo 36 lamport=668
+
+[Nodo: cliente-14 | Lamport: 5014] Edicion hilo 14 lamport=692
+
+[Nodo: cliente-19 | Lamport: 5027] Edicion hilo 19 lamport=670
+
+[Nodo: cliente-25 | Lamport: 5035] Edicion hilo 25 lamport=677
+
+[Nodo: cliente-0 | Lamport: 5034] Edicion hilo 0 lamport=687
+
+[Nodo: cliente-33 | Lamport: 5046] Edicion hilo 33 lamport=662
+
+[Nodo: cliente-13 | Lamport: 5073] Edicion hilo 13 lamport=661
+
+[Nodo: cliente-43 | Lamport: 5109] Edicion hilo 43 lamport=693
+
+[Nodo: cliente-16 | Lamport: 5116] Edicion hilo 16 lamport=689
+
+[Nodo: cliente-10 | Lamport: 5133] Edicion hilo 10 lamport=697
+
+[Nodo: cliente-47 | Lamport: 5135] Edicion hilo 47 lamport=690
+
+[Nodo: cliente-32 | Lamport: 5142] Edicion hilo 32 lamport=688
+
+[Nodo: cliente-45 | Lamport: 5086] Edicion hilo 45 lamport=685
+
+[Nodo: cliente-3 | Lamport: 5088] Edicion hilo 3 lamport=683
+
+[Nodo: cliente-41 | Lamport: 5175] Edicion hilo 41 lamport=696
+
+[Nodo: cliente-31 | Lamport: 5176] Edicion hilo 31 lamport=694
+
+[Nodo: cliente-7 | Lamport: 5184] Edicion hilo 7 lamport=679
+
+[Nodo: cliente-12 | Lamport: 5205] Edicion hilo 12 lamport=691
+
+[Nodo: cliente-26 | Lamport: 5207] Edicion hilo 26 lamport=699
+
+[Nodo: cliente-49 | Lamport: 5239] Edicion hilo 49 lamport=713
+
+[Nodo: cliente-30 | Lamport: 5232] Edicion hilo 30 lamport=712
+
+[Nodo: cliente-39 | Lamport: 5251] Edicion hilo 39 lamport=705
+
+[Nodo: cliente-29 | Lamport: 5288] Edicion hilo 29 lamport=708
+
+[Nodo: cliente-33 | Lamport: 5290] Edicion hilo 33 lamport=719
+
+[Nodo: cliente-37 | Lamport: 5306] Edicion hilo 37 lamport=724
+
+[Nodo: cliente-19 | Lamport: 5323] Edicion hilo 19 lamport=726
+
+[Nodo: cliente-28 | Lamport: 5330] Edicion hilo 28 lamport=735
+
+[Nodo: cliente-40 | Lamport: 5340] Edicion hilo 40 lamport=729
+
+[Nodo: cliente-4 | Lamport: 5342] Edicion hilo 4 lamport=715
+
+[Nodo: cliente-43 | Lamport: 5360] Edicion hilo 43 lamport=732
+
+[Nodo: cliente-48 | Lamport: 5371] Edicion hilo 48 lamport=711
+
+[Nodo: cliente-35 | Lamport: 5392] Edicion hilo 35 lamport=698
+
+[Nodo: cliente-20 | Lamport: 5405] Edicion hilo 20 lamport=730
+
+[Nodo: cliente-10 | Lamport: 5413] Edicion hilo 10 lamport=739
+
+[Nodo: cliente-46 | Lamport: 5415] Edicion hilo 46 lamport=721
+
+[Nodo: cliente-14 | Lamport: 5435] Edicion hilo 14 lamport=723
+
+[Nodo: cliente-5 | Lamport: 5437] Edicion hilo 5 lamport=736
+
+[Nodo: cliente-37 | Lamport: 5495] Edicion hilo 37 lamport=751
+
+[Nodo: cliente-45 | Lamport: 5503] Edicion hilo 45 lamport=750
+
+[Nodo: cliente-32 | Lamport: 5458] Edicion hilo 32 lamport=744
+
+[Nodo: cliente-47 | Lamport: 5463] Edicion hilo 47 lamport=734
+
+[Nodo: cliente-16 | Lamport: 5481] Edicion hilo 16 lamport=742
+
+[Nodo: cliente-33 | Lamport: 5537] Edicion hilo 33 lamport=762
+
+[Nodo: cliente-29 | Lamport: 5551] Edicion hilo 29 lamport=756
+
+[Nodo: cliente-21 | Lamport: 5553] Edicion hilo 21 lamport=738
+
+[Nodo: cliente-26 | Lamport: 5567] Edicion hilo 26 lamport=763
+
+[Nodo: cliente-6 | Lamport: 5598] Edicion hilo 6 lamport=749
+
+[Nodo: cliente-8 | Lamport: 5574] Edicion hilo 8 lamport=761
+
+[Nodo: cliente-30 | Lamport: 5637] Edicion hilo 30 lamport=758
+
+[Nodo: cliente-1 | Lamport: 5647] Edicion hilo 1 lamport=771
+
+[Nodo: cliente-9 | Lamport: 5666] Edicion hilo 9 lamport=764
+
+[Nodo: cliente-49 | Lamport: 5705] Edicion hilo 49 lamport=760
+
+[Nodo: cliente-34 | Lamport: 5710] Edicion hilo 34 lamport=768
+
+[Nodo: cliente-48 | Lamport: 5722] Edicion hilo 48 lamport=773
+
+[Nodo: cliente-23 | Lamport: 5734] Edicion hilo 23 lamport=769
+
+[Nodo: cliente-24 | Lamport: 5717] Edicion hilo 24 lamport=781
+
+[Nodo: cliente-28 | Lamport: 5685] Edicion hilo 28 lamport=765
+
+[Nodo: cliente-42 | Lamport: 5738] Edicion hilo 42 lamport=766
+
+[Nodo: cliente-38 | Lamport: 5692] Edicion hilo 38 lamport=780
+
+[Nodo: cliente-13 | Lamport: 5727] Edicion hilo 13 lamport=770
+
+[Nodo: cliente-46 | Lamport: 5740] Edicion hilo 46 lamport=775
+
+[Nodo: cliente-19 | Lamport: 5772] Edicion hilo 19 lamport=786
+
+[Nodo: cliente-4 | Lamport: 5777] Edicion hilo 4 lamport=787
+
+[Nodo: cliente-12 | Lamport: 5833] Edicion hilo 12 lamport=785
+
+[Nodo: cliente-14 | Lamport: 5841] Edicion hilo 14 lamport=783
+
+[Nodo: cliente-16 | Lamport: 5866] Edicion hilo 16 lamport=788
+
+[Nodo: cliente-10 | Lamport: 5884] Edicion hilo 10 lamport=804
+
+[Nodo: cliente-0 | Lamport: 5889] Edicion hilo 0 lamport=789
+
+[Nodo: cliente-41 | Lamport: 5910] Edicion hilo 41 lamport=803
+
+[Nodo: cliente-11 | Lamport: 5981] Edicion hilo 11 lamport=808
+
+[Nodo: cliente-7 | Lamport: 5928] Edicion hilo 7 lamport=807
+
+[Nodo: cliente-26 | Lamport: 5959] Edicion hilo 26 lamport=805
+
+[Nodo: cliente-22 | Lamport: 5916] Edicion hilo 22 lamport=793
+
+[Nodo: cliente-33 | Lamport: 5922] Edicion hilo 33 lamport=801
+
+[Nodo: cliente-2 | Lamport: 5936] Edicion hilo 2 lamport=810
+
+[Nodo: cliente-5 | Lamport: 5900] Edicion hilo 5 lamport=790
+
+[Nodo: cliente-4 | Lamport: 6010] Edicion hilo 4 lamport=828
+
+[Nodo: cliente-38 | Lamport: 6015] Edicion hilo 38 lamport=829
+
+[Nodo: cliente-34 | Lamport: 6027] Edicion hilo 34 lamport=816
+
+[Nodo: cliente-9 | Lamport: 6045] Edicion hilo 9 lamport=821
+
+[Nodo: cliente-35 | Lamport: 6031] Edicion hilo 35 lamport=827
+
+[Nodo: cliente-45 | Lamport: 6037] Edicion hilo 45 lamport=834
+
+[Nodo: cliente-30 | Lamport: 6040] Edicion hilo 30 lamport=815
+
+[Nodo: cliente-15 | Lamport: 6115] Edicion hilo 15 lamport=842
+
+[Nodo: cliente-12 | Lamport: 6104] Edicion hilo 12 lamport=839
+
+[Nodo: cliente-32 | Lamport: 6122] Edicion hilo 32 lamport=837
+
+[Nodo: cliente-29 | Lamport: 6148] Edicion hilo 29 lamport=835
+
+[Nodo: cliente-19 | Lamport: 6158] Edicion hilo 19 lamport=824
+
+[Nodo: cliente-0 | Lamport: 6172] Edicion hilo 0 lamport=844
+
+[Nodo: cliente-37 | Lamport: 6185] Edicion hilo 37 lamport=825
+
+[Nodo: cliente-27 | Lamport: 6183] Edicion hilo 27 lamport=836
+
+[Nodo: cliente-1 | Lamport: 6192] Edicion hilo 1 lamport=830
+
+[Nodo: cliente-3 | Lamport: 6201] Edicion hilo 3 lamport=840
+
+[Nodo: cliente-16 | Lamport: 6243] Edicion hilo 16 lamport=853
+
+[Nodo: cliente-25 | Lamport: 6269] Edicion hilo 25 lamport=858
+
+[Nodo: cliente-41 | Lamport: 6279] Edicion hilo 41 lamport=854
+
+[Nodo: cliente-40 | Lamport: 6290] Edicion hilo 40 lamport=850
+
+[Nodo: cliente-12 | Lamport: 6373] Edicion hilo 12 lamport=869
+
+[Nodo: cliente-39 | Lamport: 6374] Edicion hilo 39 lamport=870
+
+[Nodo: cliente-3 | Lamport: 6356] Edicion hilo 3 lamport=878
+
+[Nodo: cliente-42 | Lamport: 6393] Edicion hilo 42 lamport=868
+
+[Nodo: cliente-33 | Lamport: 6394] Edicion hilo 33 lamport=859
+
+[Nodo: cliente-11 | Lamport: 6399] Edicion hilo 11 lamport=865
+
+[Nodo: cliente-1 | Lamport: 6397] Edicion hilo 1 lamport=886
+
+[Nodo: cliente-29 | Lamport: 6403] Edicion hilo 29 lamport=876
+
+[Nodo: cliente-10 | Lamport: 6422] Edicion hilo 10 lamport=881
+
+[Nodo: cliente-30 | Lamport: 6426] Edicion hilo 30 lamport=892
+
+[Nodo: cliente-25 | Lamport: 6438] Edicion hilo 25 lamport=893
+
+[Nodo: cliente-19 | Lamport: 6512] Edicion hilo 19 lamport=875
+
+[Nodo: cliente-35 | Lamport: 6519] Edicion hilo 35 lamport=900
+
+[Nodo: cliente-15 | Lamport: 6532] Edicion hilo 15 lamport=885
+
+[Nodo: cliente-24 | Lamport: 6516] Edicion hilo 24 lamport=873
+
+[Nodo: cliente-32 | Lamport: 6531] Edicion hilo 32 lamport=877
+
+[Nodo: cliente-21 | Lamport: 6543] Edicion hilo 21 lamport=891
+
+[Nodo: cliente-41 | Lamport: 6533] Edicion hilo 41 lamport=894
+
+[Nodo: cliente-37 | Lamport: 6539] Edicion hilo 37 lamport=890
+
+[Nodo: cliente-27 | Lamport: 6544] Edicion hilo 27 lamport=882
+
+[Nodo: cliente-31 | Lamport: 6547] Edicion hilo 31 lamport=895
+
+[Nodo: cliente-17 | Lamport: 6550] Edicion hilo 17 lamport=897
+
+[Nodo: cliente-23 | Lamport: 6556] Edicion hilo 23 lamport=906
+
+[Nodo: cliente-26 | Lamport: 6558] Edicion hilo 26 lamport=901
+
+[Nodo: cliente-49 | Lamport: 6637] Edicion hilo 49 lamport=904
+
+[Nodo: cliente-16 | Lamport: 6636] Edicion hilo 16 lamport=899
+
+[Nodo: cliente-48 | Lamport: 6653] Edicion hilo 48 lamport=910
+
+[Nodo: cliente-34 | Lamport: 6664] Edicion hilo 34 lamport=907
+
+[Nodo: cliente-9 | Lamport: 6685] Edicion hilo 9 lamport=909
+
+[Nodo: cliente-5 | Lamport: 6703] Edicion hilo 5 lamport=912
+
+[Nodo: cliente-3 | Lamport: 6708] Edicion hilo 3 lamport=913
+
+[Nodo: cliente-36 | Lamport: 6742] Edicion hilo 36 lamport=925
+
+[Nodo: cliente-46 | Lamport: 6747] Edicion hilo 46 lamport=916
+
+[Nodo: cliente-11 | Lamport: 6753] Edicion hilo 11 lamport=926
+
+[Nodo: cliente-45 | Lamport: 6774] Edicion hilo 45 lamport=918
+
+[Nodo: cliente-43 | Lamport: 6781] Edicion hilo 43 lamport=920
+
+[Nodo: cliente-10 | Lamport: 6788] Edicion hilo 10 lamport=924
+
+[Nodo: cliente-32 | Lamport: 6793] Edicion hilo 32 lamport=935
+
+[Nodo: cliente-1 | Lamport: 6810] Edicion hilo 1 lamport=933
+
+[Nodo: cliente-7 | Lamport: 6837] Edicion hilo 7 lamport=927
+
+[Nodo: cliente-25 | Lamport: 6836] Edicion hilo 25 lamport=928
+
+[Nodo: cliente-29 | Lamport: 6855] Edicion hilo 29 lamport=945
+
+[Nodo: cliente-18 | Lamport: 6868] Edicion hilo 18 lamport=938
+
+[Nodo: cliente-14 | Lamport: 6885] Edicion hilo 14 lamport=937
+
+[Nodo: cliente-33 | Lamport: 6908] Edicion hilo 33 lamport=939
+
+[Nodo: cliente-48 | Lamport: 6902] Edicion hilo 48 lamport=948
+
+[Nodo: cliente-21 | Lamport: 6932] Edicion hilo 21 lamport=940
+
+[Nodo: cliente-44 | Lamport: 6923] Edicion hilo 44 lamport=952
+
+[Nodo: cliente-30 | Lamport: 6930] Edicion hilo 30 lamport=947
+
+[Nodo: cliente-41 | Lamport: 6963] Edicion hilo 41 lamport=943
+
+[Nodo: cliente-16 | Lamport: 6988] Edicion hilo 16 lamport=951
+
+[Nodo: cliente-31 | Lamport: 6979] Edicion hilo 31 lamport=946
+
+[Nodo: cliente-2 | Lamport: 7038] Edicion hilo 2 lamport=953
+
+[Nodo: cliente-49 | Lamport: 7042] Edicion hilo 49 lamport=955
+
+[Nodo: cliente-40 | Lamport: 7050] Edicion hilo 40 lamport=959
+
+[Nodo: cliente-20 | Lamport: 7039] Edicion hilo 20 lamport=954
+
+[Nodo: cliente-6 | Lamport: 7045] Edicion hilo 6 lamport=957
+
+[Nodo: cliente-13 | Lamport: 7084] Edicion hilo 13 lamport=965
+
+[Nodo: cliente-38 | Lamport: 7100] Edicion hilo 38 lamport=962
+
+[Nodo: cliente-15 | Lamport: 7110] Edicion hilo 15 lamport=974
+
+[Nodo: cliente-24 | Lamport: 7119] Edicion hilo 24 lamport=971
+
+[Nodo: cliente-37 | Lamport: 7131] Edicion hilo 37 lamport=964
+
+[Nodo: cliente-45 | Lamport: 7160] Edicion hilo 45 lamport=980
+
+[Nodo: cliente-42 | Lamport: 7179] Edicion hilo 42 lamport=985
+
+[Nodo: cliente-48 | Lamport: 7193] Edicion hilo 48 lamport=990
+
+[Nodo: cliente-26 | Lamport: 7222] Edicion hilo 26 lamport=987
+
+[Nodo: cliente-32 | Lamport: 7206] Edicion hilo 32 lamport=976
+
+[Nodo: cliente-8 | Lamport: 7210] Edicion hilo 8 lamport=982
+
+[Nodo: cliente-25 | Lamport: 7208] Edicion hilo 25 lamport=972
+
+[Nodo: cliente-30 | Lamport: 7218] Edicion hilo 30 lamport=981
+
+[Nodo: cliente-18 | Lamport: 7220] Edicion hilo 18 lamport=986
+
+[Nodo: cliente-47 | Lamport: 7224] Edicion hilo 47 lamport=983
+
+[Nodo: cliente-14 | Lamport: 7294] Edicion hilo 14 lamport=989
+
+[Nodo: cliente-21 | Lamport: 7319] Edicion hilo 21 lamport=988
+
+[Nodo: cliente-38 | Lamport: 7329] Edicion hilo 38 lamport=1012
+
+[Nodo: cliente-46 | Lamport: 7343] Edicion hilo 46 lamport=1008
+
+[Nodo: cliente-31 | Lamport: 7323] Edicion hilo 31 lamport=996
+
+[Nodo: cliente-49 | Lamport: 7334] Edicion hilo 49 lamport=997
+
+[Nodo: cliente-2 | Lamport: 7326] Edicion hilo 2 lamport=1011
+
+[Nodo: cliente-34 | Lamport: 7350] Edicion hilo 34 lamport=1000
+
+[Nodo: cliente-0 | Lamport: 7391] Edicion hilo 0 lamport=1013
+
+[Nodo: cliente-13 | Lamport: 7419] Edicion hilo 13 lamport=1014
+
+[Nodo: cliente-3 | Lamport: 7420] Edicion hilo 3 lamport=1007
+
+[Nodo: cliente-6 | Lamport: 7423] Edicion hilo 6 lamport=1003
+
+[Nodo: cliente-12 | Lamport: 7448] Edicion hilo 12 lamport=1020
+
+[Nodo: cliente-40 | Lamport: 7447] Edicion hilo 40 lamport=1002
+
+[Nodo: cliente-5 | Lamport: 7458] Edicion hilo 5 lamport=1001
+
+[Nodo: cliente-17 | Lamport: 7459] Edicion hilo 17 lamport=1004
+
+[Nodo: cliente-41 | Lamport: 7468] Edicion hilo 41 lamport=998
+
+[Nodo: cliente-26 | Lamport: 7498] Edicion hilo 26 lamport=1024
+
+[Nodo: cliente-15 | Lamport: 7506] Edicion hilo 15 lamport=1016
+
+[Nodo: cliente-23 | Lamport: 7514] Edicion hilo 23 lamport=1019
+
+[Nodo: cliente-36 | Lamport: 7526] Edicion hilo 36 lamport=1028
+
+[Nodo: cliente-22 | Lamport: 7559] Edicion hilo 22 lamport=1021
+
+[Nodo: cliente-14 | Lamport: 7577] Edicion hilo 14 lamport=1039
+
+[Nodo: cliente-25 | Lamport: 7600] Edicion hilo 25 lamport=1029
+
+[Nodo: cliente-45 | Lamport: 7612] Edicion hilo 45 lamport=1035
+
+[Nodo: cliente-44 | Lamport: 7631] Edicion hilo 44 lamport=1032
+
+[Nodo: cliente-4 | Lamport: 7648] Edicion hilo 4 lamport=1040
+
+[Nodo: cliente-11 | Lamport: 7654] Edicion hilo 11 lamport=1017
+
+[Nodo: cliente-47 | Lamport: 7656] Edicion hilo 47 lamport=1025
+
+[Nodo: cliente-46 | Lamport: 7686] Edicion hilo 46 lamport=1037
+
+[Nodo: cliente-19 | Lamport: 7681] Edicion hilo 19 lamport=1053
+
+[Nodo: cliente-12 | Lamport: 7698] Edicion hilo 12 lamport=1050
+
+[Nodo: cliente-24 | Lamport: 7703] Edicion hilo 24 lamport=1057
+
+[Nodo: cliente-21 | Lamport: 7709] Edicion hilo 21 lamport=1044
+
+[Nodo: cliente-49 | Lamport: 7714] Edicion hilo 49 lamport=1045
+
+[Nodo: cliente-10 | Lamport: 7716] Edicion hilo 10 lamport=1041
+
+[Nodo: cliente-35 | Lamport: 7671] Edicion hilo 35 lamport=1036
+
+[Nodo: cliente-33 | Lamport: 7676] Edicion hilo 33 lamport=1042
+
+[Nodo: cliente-37 | Lamport: 7780] Edicion hilo 37 lamport=1063
+
+[Nodo: cliente-29 | Lamport: 7785] Edicion hilo 29 lamport=1051
+
+[Nodo: cliente-31 | Lamport: 7814] Edicion hilo 31 lamport=1049
+
+[Nodo: cliente-48 | Lamport: 7815] Edicion hilo 48 lamport=1054
+
+[Nodo: cliente-8 | Lamport: 7818] Edicion hilo 8 lamport=1066
+
+[Nodo: cliente-38 | Lamport: 7839] Edicion hilo 38 lamport=1059
+
+[Nodo: cliente-26 | Lamport: 7869] Edicion hilo 26 lamport=1060
+
+[Nodo: cliente-39 | Lamport: 7857] Edicion hilo 39 lamport=1069
+
+[Nodo: cliente-42 | Lamport: 7850] Edicion hilo 42 lamport=1068
+
+[Nodo: cliente-43 | Lamport: 7865] Edicion hilo 43 lamport=1061
+
+[Nodo: cliente-40 | Lamport: 7863] Edicion hilo 40 lamport=1065
+
+[Nodo: cliente-36 | Lamport: 7864] Edicion hilo 36 lamport=1064
+
+[Nodo: cliente-23 | Lamport: 7908] Edicion hilo 23 lamport=1058
+
+[Nodo: cliente-5 | Lamport: 7923] Edicion hilo 5 lamport=1071
+
+[Nodo: cliente-11 | Lamport: 7930] Edicion hilo 11 lamport=1076
+
+[Nodo: cliente-16 | Lamport: 7958] Edicion hilo 16 lamport=1072
+
+[Nodo: cliente-24 | Lamport: 8006] Edicion hilo 24 lamport=1090
+
+[Nodo: cliente-18 | Lamport: 8020] Edicion hilo 18 lamport=1079
+
+[Nodo: cliente-7 | Lamport: 8027] Edicion hilo 7 lamport=1080
+
+[Nodo: cliente-49 | Lamport: 8036] Edicion hilo 49 lamport=1094
+
+[Nodo: cliente-28 | Lamport: 8052] Edicion hilo 28 lamport=1084
+
+[Nodo: cliente-10 | Lamport: 8146] Edicion hilo 10 lamport=1091
+
+[Nodo: cliente-32 | Lamport: 8125] Edicion hilo 32 lamport=1096
+
+[Nodo: cliente-48 | Lamport: 8148] Edicion hilo 48 lamport=1101
+
+[Nodo: cliente-8 | Lamport: 8141] Edicion hilo 8 lamport=1098
+
+[Nodo: cliente-22 | Lamport: 8126] Edicion hilo 22 lamport=1099
+
+[Nodo: cliente-36 | Lamport: 8152] Edicion hilo 36 lamport=1102
+
+[Nodo: cliente-31 | Lamport: 8092] Edicion hilo 31 lamport=1092
+
+[Nodo: cliente-46 | Lamport: 8105] Edicion hilo 46 lamport=1110
+
+[Nodo: cliente-23 | Lamport: 8123] Edicion hilo 23 lamport=1105
+
+[Nodo: cliente-35 | Lamport: 8134] Edicion hilo 35 lamport=1113
+
+[Nodo: cliente-6 | Lamport: 8143] Edicion hilo 6 lamport=1104
+
+[Nodo: cliente-19 | Lamport: 8221] Edicion hilo 19 lamport=1125
+
+[Nodo: cliente-42 | Lamport: 8258] Edicion hilo 42 lamport=1115
+
+[Nodo: cliente-40 | Lamport: 8228] Edicion hilo 40 lamport=1127
+
+[Nodo: cliente-34 | Lamport: 8243] Edicion hilo 34 lamport=1131
+
+[Nodo: cliente-0 | Lamport: 8256] Edicion hilo 0 lamport=1112
+
+[Nodo: cliente-2 | Lamport: 8274] Edicion hilo 2 lamport=1133
+
+[Nodo: cliente-1 | Lamport: 8346] Edicion hilo 1 lamport=1129
+
+[Nodo: cliente-12 | Lamport: 8367] Edicion hilo 12 lamport=1141
+
+[Nodo: cliente-28 | Lamport: 8356] Edicion hilo 28 lamport=1140
+
+[Nodo: cliente-15 | Lamport: 8376] Edicion hilo 15 lamport=1134
+
+[Nodo: cliente-18 | Lamport: 8392] Edicion hilo 18 lamport=1137
+
+[Nodo: cliente-44 | Lamport: 8399] Edicion hilo 44 lamport=1146
+
+[Nodo: cliente-31 | Lamport: 8416] Edicion hilo 31 lamport=1157
+
+[Nodo: cliente-23 | Lamport: 8424] Edicion hilo 23 lamport=1159
+
+[Nodo: cliente-4 | Lamport: 8437] Edicion hilo 4 lamport=1144
+
+[Nodo: cliente-22 | Lamport: 8456] Edicion hilo 22 lamport=1167
+
+[Nodo: cliente-6 | Lamport: 8413] Edicion hilo 6 lamport=1156
+
+[Nodo: cliente-42 | Lamport: 8497] Edicion hilo 42 lamport=1170
+
+[Nodo: cliente-3 | Lamport: 8507] Edicion hilo 3 lamport=1152
+
+[Nodo: cliente-17 | Lamport: 8517] Edicion hilo 17 lamport=1158
+
+[Nodo: cliente-2 | Lamport: 8531] Edicion hilo 2 lamport=1173
+
+[Nodo: cliente-10 | Lamport: 8536] Edicion hilo 10 lamport=1151
+
+[Nodo: cliente-21 | Lamport: 8537] Edicion hilo 21 lamport=1161
+
+[Nodo: cliente-8 | Lamport: 8557] Edicion hilo 8 lamport=1154
+
+[Nodo: cliente-20 | Lamport: 8562] Edicion hilo 20 lamport=1135
+
+[Nodo: cliente-48 | Lamport: 8588] Edicion hilo 48 lamport=1180
+
+[Nodo: cliente-32 | Lamport: 8609] Edicion hilo 32 lamport=1171
+
+[Nodo: cliente-15 | Lamport: 8636] Edicion hilo 15 lamport=1183
+
+[Nodo: cliente-13 | Lamport: 8641] Edicion hilo 13 lamport=1188
+
+[Nodo: cliente-1 | Lamport: 8649] Edicion hilo 1 lamport=1186
+
+[Nodo: cliente-40 | Lamport: 8665] Edicion hilo 40 lamport=1181
+
+[Nodo: cliente-12 | Lamport: 8672] Edicion hilo 12 lamport=1178
+
+[Nodo: cliente-33 | Lamport: 8682] Edicion hilo 33 lamport=1184
+
+[Nodo: cliente-31 | Lamport: 8687] Edicion hilo 31 lamport=1197
+
+[Nodo: cliente-30 | Lamport: 8718] Edicion hilo 30 lamport=1189
+
+[Nodo: cliente-42 | Lamport: 8753] Edicion hilo 42 lamport=1209
+
+[Nodo: cliente-22 | Lamport: 8758] Edicion hilo 22 lamport=1195
+
+[Nodo: cliente-45 | Lamport: 8773] Edicion hilo 45 lamport=1208
+
+[Nodo: cliente-41 | Lamport: 8787] Edicion hilo 41 lamport=1204
+
+[Nodo: cliente-17 | Lamport: 8788] Edicion hilo 17 lamport=1199
+
+[Nodo: cliente-44 | Lamport: 8791] Edicion hilo 44 lamport=1190
+
+[Nodo: cliente-21 | Lamport: 8794] Edicion hilo 21 lamport=1202
+
+[Nodo: cliente-2 | Lamport: 8881] Edicion hilo 2 lamport=1241
+
+[Nodo: cliente-24 | Lamport: 8914] Edicion hilo 24 lamport=1246
+
+[Nodo: cliente-47 | Lamport: 8927] Edicion hilo 47 lamport=1251
+
+[Nodo: cliente-29 | Lamport: 8964] Edicion hilo 29 lamport=1262
+
+[Nodo: cliente-8 | Lamport: 8935] Edicion hilo 8 lamport=1256
+
+[Nodo: cliente-34 | Lamport: 8808] Edicion hilo 34 lamport=1206
+
+[Nodo: cliente-28 | Lamport: 8816] Edicion hilo 28 lamport=1223
+
+[Nodo: cliente-48 | Lamport: 8832] Edicion hilo 48 lamport=1224
+
+[Nodo: cliente-23 | Lamport: 8966] Edicion hilo 23 lamport=1264
+
+[Nodo: cliente-7 | Lamport: 8856] Edicion hilo 7 lamport=1236
+
+[Nodo: cliente-16 | Lamport: 8974] Edicion hilo 16 lamport=1266
+
+[Nodo: cliente-46 | Lamport: 8931] Edicion hilo 46 lamport=1250
+
+[Nodo: cliente-49 | Lamport: 8985] Edicion hilo 49 lamport=1271
+
+[Nodo: cliente-3 | Lamport: 9008] Edicion hilo 3 lamport=1278
+
+[Nodo: cliente-27 | Lamport: 9003] Edicion hilo 27 lamport=1277
+
+[Nodo: cliente-4 | Lamport: 9100] Edicion hilo 4 lamport=1196
+
+[Nodo: cliente-5 | Lamport: 9108] Edicion hilo 5 lamport=1210
+
+[Nodo: cliente-14 | Lamport: 9118] Edicion hilo 14 lamport=1263
+
+[Nodo: cliente-38 | Lamport: 9113] Edicion hilo 38 lamport=1228
+
+[Nodo: cliente-26 | Lamport: 9142] Edicion hilo 26 lamport=1254
+
+[Nodo: cliente-10 | Lamport: 9155] Edicion hilo 10 lamport=1215
+
+[Nodo: cliente-40 | Lamport: 9153] Edicion hilo 40 lamport=1238
+
+[Nodo: cliente-39 | Lamport: 9123] Edicion hilo 39 lamport=1280
+
+[Nodo: cliente-43 | Lamport: 9162] Edicion hilo 43 lamport=1272
+
+[Nodo: cliente-37 | Lamport: 9130] Edicion hilo 37 lamport=1235
+
+[Nodo: cliente-32 | Lamport: 9138] Edicion hilo 32 lamport=1269
+
+[Nodo: cliente-15 | Lamport: 9140] Edicion hilo 15 lamport=1273
+
+[Nodo: cliente-19 | Lamport: 9159] Edicion hilo 19 lamport=1213
+
+[Nodo: cliente-9 | Lamport: 9169] Edicion hilo 9 lamport=1239
+
+[Nodo: cliente-11 | Lamport: 9189] Edicion hilo 11 lamport=1218
+
+[Nodo: cliente-6 | Lamport: 9193] Edicion hilo 6 lamport=1240
+
+[Nodo: cliente-20 | Lamport: 9191] Edicion hilo 20 lamport=1225
+
+[Nodo: cliente-18 | Lamport: 9201] Edicion hilo 18 lamport=1244
+
+[Nodo: cliente-0 | Lamport: 9204] Edicion hilo 0 lamport=1212
+
+[Nodo: cliente-1 | Lamport: 9214] Edicion hilo 1 lamport=1268
+
+[Nodo: cliente-35 | Lamport: 9213] Edicion hilo 35 lamport=1247
+
+[Nodo: cliente-25 | Lamport: 9217] Edicion hilo 25 lamport=1245
+
+[Nodo: cliente-13 | Lamport: 9223] Edicion hilo 13 lamport=1265
+
+[Nodo: cliente-36 | Lamport: 9225] Edicion hilo 36 lamport=1242
+
+[Nodo: cliente-31 | Lamport: 9272] Edicion hilo 31 lamport=1281
+
+[Nodo: cliente-17 | Lamport: 9384] Edicion hilo 17 lamport=1285
+
+[Nodo: cliente-8 | Lamport: 9411] Edicion hilo 8 lamport=1290
+
+[Nodo: cliente-16 | Lamport: 9418] Edicion hilo 16 lamport=1291
+
+[Nodo: cliente-12 | Lamport: 9427] Edicion hilo 12 lamport=1282
+
+[Nodo: cliente-22 | Lamport: 9438] Edicion hilo 22 lamport=1287
+
+[Nodo: cliente-24 | Lamport: 9433] Edicion hilo 24 lamport=1286
+
+[Nodo: cliente-1 | Lamport: 9492] Edicion hilo 1 lamport=1314
+
+[Nodo: cliente-42 | Lamport: 9459] Edicion hilo 42 lamport=1300
+
+[Nodo: cliente-18 | Lamport: 9490] Edicion hilo 18 lamport=1302
+
+[Nodo: cliente-49 | Lamport: 9455] Edicion hilo 49 lamport=1298
+
+[Nodo: cliente-38 | Lamport: 9510] Edicion hilo 38 lamport=1308
+
+[Nodo: cliente-32 | Lamport: 9513] Edicion hilo 32 lamport=1309
+
+[Nodo: cliente-3 | Lamport: 9519] Edicion hilo 3 lamport=1311
+
+[Nodo: cliente-9 | Lamport: 9507] Edicion hilo 9 lamport=1307
+
+[Nodo: cliente-47 | Lamport: 9479] Edicion hilo 47 lamport=1283
+
+[Nodo: cliente-19 | Lamport: 9549] Edicion hilo 19 lamport=1306
+
+[Nodo: cliente-23 | Lamport: 9557] Edicion hilo 23 lamport=1297
+
+[Nodo: cliente-46 | Lamport: 9583] Edicion hilo 46 lamport=1304
+
+[Nodo: cliente-21 | Lamport: 9578] Edicion hilo 21 lamport=1293
+
+[Nodo: cliente-48 | Lamport: 9558] Edicion hilo 48 lamport=1303
+
+[Nodo: cliente-45 | Lamport: 9580] Edicion hilo 45 lamport=1288
+
+[Nodo: cliente-26 | Lamport: 9599] Edicion hilo 26 lamport=1322
+
+[Nodo: cliente-37 | Lamport: 9587] Edicion hilo 37 lamport=1312
+
+[Nodo: cliente-4 | Lamport: 9555] Edicion hilo 4 lamport=1299
+
+[Nodo: cliente-5 | Lamport: 9576] Edicion hilo 5 lamport=1296
+
+[Nodo: cliente-0 | Lamport: 9601] Edicion hilo 0 lamport=1320
+
+[Nodo: cliente-41 | Lamport: 9605] Edicion hilo 41 lamport=1305
+
+[Nodo: cliente-12 | Lamport: 9664] Edicion hilo 12 lamport=1329
+
+[Nodo: cliente-31 | Lamport: 9670] Edicion hilo 31 lamport=1330
+
+[Nodo: cliente-7 | Lamport: 9705] Edicion hilo 7 lamport=1326
+
+[Nodo: cliente-8 | Lamport: 9678] Edicion hilo 8 lamport=1334
+
+[Nodo: cliente-17 | Lamport: 9696] Edicion hilo 17 lamport=1333
+
+[Nodo: cliente-34 | Lamport: 9714] Edicion hilo 34 lamport=1332
+
+[Nodo: cliente-29 | Lamport: 9799] Edicion hilo 29 lamport=1340
+
+[Nodo: cliente-44 | Lamport: 9821] Edicion hilo 44 lamport=1336
+
+[Nodo: cliente-22 | Lamport: 9816] Edicion hilo 22 lamport=1345
+
+[Nodo: cliente-27 | Lamport: 9804] Edicion hilo 27 lamport=1343
+
+[Nodo: cliente-11 | Lamport: 9835] Edicion hilo 11 lamport=1350
+
+[Nodo: cliente-9 | Lamport: 9842] Edicion hilo 9 lamport=1351
+
+[Nodo: cliente-15 | Lamport: 9809] Edicion hilo 15 lamport=1348
+
+[Nodo: cliente-20 | Lamport: 9848] Edicion hilo 20 lamport=1347
+
+[Nodo: cliente-49 | Lamport: 9863] Edicion hilo 49 lamport=1342
+
+[Nodo: cliente-16 | Lamport: 9952] Edicion hilo 16 lamport=1344
+
+[Nodo: cliente-17 | Lamport: 9959] Edicion hilo 17 lamport=1371
+
+[Nodo: cliente-10 | Lamport: 9945] Edicion hilo 10 lamport=1358
+
+[Nodo: cliente-36 | Lamport: 9900] Edicion hilo 36 lamport=1360
+
+[Nodo: cliente-40 | Lamport: 9926] Edicion hilo 40 lamport=1349
+
+[Nodo: cliente-23 | Lamport: 9951] Edicion hilo 23 lamport=1354
+
+[Nodo: cliente-30 | Lamport: 9928] Edicion hilo 30 lamport=1355
+
+[Nodo: cliente-39 | Lamport: 9943] Edicion hilo 39 lamport=1357
+
+[Nodo: cliente-46 | Lamport: 9947] Edicion hilo 46 lamport=1356
+
+[Nodo: cliente-0 | Lamport: 9935] Edicion hilo 0 lamport=1364
+
+[Nodo: cliente-41 | Lamport: 10041] Edicion hilo 41 lamport=1365
+
+[Nodo: cliente-12 | Lamport: 10029] Edicion hilo 12 lamport=1377
+
+[Nodo: cliente-28 | Lamport: 10061] Edicion hilo 28 lamport=1362
+
+[Nodo: cliente-5 | Lamport: 10060] Edicion hilo 5 lamport=1369
+
+[Nodo: cliente-6 | Lamport: 10073] Edicion hilo 6 lamport=1367
+
+[Nodo: cliente-18 | Lamport: 10081] Edicion hilo 18 lamport=1378
+
+[Nodo: cliente-25 | Lamport: 10087] Edicion hilo 25 lamport=1373
+
+[Nodo: cliente-7 | Lamport: 10119] Edicion hilo 7 lamport=1374
+
+[Nodo: cliente-13 | Lamport: 10129] Edicion hilo 13 lamport=1384
+
+[Nodo: cliente-49 | Lamport: 10142] Edicion hilo 49 lamport=1381
+
+[Nodo: cliente-15 | Lamport: 10164] Edicion hilo 15 lamport=1379
+
+[Nodo: cliente-3 | Lamport: 10195] Edicion hilo 3 lamport=1392
+
+[Nodo: cliente-48 | Lamport: 10197] Edicion hilo 48 lamport=1382
+
+[Nodo: cliente-24 | Lamport: 10199] Edicion hilo 24 lamport=1389
+
+[Nodo: cliente-23 | Lamport: 10217] Edicion hilo 23 lamport=1398
+
+[Nodo: cliente-31 | Lamport: 10240] Edicion hilo 31 lamport=1399
+
+[Nodo: cliente-21 | Lamport: 10254] Edicion hilo 21 lamport=1395
+
+[Nodo: cliente-35 | Lamport: 10274] Edicion hilo 35 lamport=1394
+
+[Nodo: cliente-17 | Lamport: 10276] Edicion hilo 17 lamport=1402
+
+[Nodo: cliente-47 | Lamport: 10280] Edicion hilo 47 lamport=1413
+
+[Nodo: cliente-39 | Lamport: 10292] Edicion hilo 39 lamport=1405
+
+[Nodo: cliente-14 | Lamport: 10310] Edicion hilo 14 lamport=1404
+
+[Nodo: cliente-0 | Lamport: 10314] Edicion hilo 0 lamport=1411
+
+[Nodo: cliente-37 | Lamport: 10323] Edicion hilo 37 lamport=1418
+
+[Nodo: cliente-36 | Lamport: 10350] Edicion hilo 36 lamport=1425
+
+[Nodo: cliente-38 | Lamport: 10328] Edicion hilo 38 lamport=1419
+
+[Nodo: cliente-12 | Lamport: 10341] Edicion hilo 12 lamport=1416
+
+[Nodo: cliente-19 | Lamport: 10404] Edicion hilo 19 lamport=1410
+
+[Nodo: cliente-26 | Lamport: 10415] Edicion hilo 26 lamport=1427
+
+[Nodo: cliente-13 | Lamport: 10432] Edicion hilo 13 lamport=1424
+
+[Nodo: cliente-44 | Lamport: 10434] Edicion hilo 44 lamport=1423
+
+[Nodo: cliente-41 | Lamport: 10444] Edicion hilo 41 lamport=1420
+
+[Nodo: cliente-46 | Lamport: 10456] Edicion hilo 46 lamport=1415
+
+[Nodo: cliente-5 | Lamport: 10458] Edicion hilo 5 lamport=1417
+
+[Nodo: cliente-42 | Lamport: 10477] Edicion hilo 42 lamport=1426
+
+[Nodo: cliente-18 | Lamport: 10489] Edicion hilo 18 lamport=1433
+
+[Nodo: cliente-48 | Lamport: 10482] Edicion hilo 48 lamport=1437
+
+[Nodo: cliente-29 | Lamport: 10590] Edicion hilo 29 lamport=1439
+
+[Nodo: cliente-43 | Lamport: 10629] Edicion hilo 43 lamport=1438
+
+[Nodo: cliente-45 | Lamport: 10585] Edicion hilo 45 lamport=1434
+
+[Nodo: cliente-24 | Lamport: 10631] Edicion hilo 24 lamport=1455
+
+[Nodo: cliente-4 | Lamport: 10545] Edicion hilo 4 lamport=1442
+
+[Nodo: cliente-47 | Lamport: 10567] Edicion hilo 47 lamport=1446
+
+[Nodo: cliente-16 | Lamport: 10573] Edicion hilo 16 lamport=1451
+
+[Nodo: cliente-17 | Lamport: 10597] Edicion hilo 17 lamport=1441
+
+[Nodo: cliente-3 | Lamport: 10613] Edicion hilo 3 lamport=1445
+
+[Nodo: cliente-27 | Lamport: 10619] Edicion hilo 27 lamport=1450
+
+[Nodo: cliente-21 | Lamport: 10580] Edicion hilo 21 lamport=1436
+
+[Nodo: cliente-38 | Lamport: 10624] Edicion hilo 38 lamport=1457
+
+[Nodo: cliente-13 | Lamport: 10675] Edicion hilo 13 lamport=1458
+
+[Nodo: cliente-6 | Lamport: 10696] Edicion hilo 6 lamport=1466
+
+[Nodo: cliente-41 | Lamport: 10717] Edicion hilo 41 lamport=1456
+
+[Nodo: cliente-10 | Lamport: 10719] Edicion hilo 10 lamport=1449
+
+[Nodo: cliente-46 | Lamport: 10723] Edicion hilo 46 lamport=1465
+
+[Nodo: cliente-34 | Lamport: 10732] Edicion hilo 34 lamport=1453
+
+[Nodo: cliente-12 | Lamport: 10734] Edicion hilo 12 lamport=1462
+
+[Nodo: cliente-25 | Lamport: 10718] Edicion hilo 25 lamport=1459
+
+[Nodo: cliente-48 | Lamport: 10793] Edicion hilo 48 lamport=1479
+
+[Nodo: cliente-32 | Lamport: 10818] Edicion hilo 32 lamport=1478
+
+[Nodo: cliente-36 | Lamport: 10820] Edicion hilo 36 lamport=1463
+
+[Nodo: cliente-35 | Lamport: 10826] Edicion hilo 35 lamport=1469
+
+[Nodo: cliente-7 | Lamport: 10824] Edicion hilo 7 lamport=1470
+
+[Nodo: cliente-49 | Lamport: 10827] Edicion hilo 49 lamport=1461
+
+[Nodo: cliente-26 | Lamport: 10830] Edicion hilo 26 lamport=1481
+
+[Nodo: cliente-40 | Lamport: 10889] Edicion hilo 40 lamport=1487
+
+[Nodo: cliente-3 | Lamport: 10895] Edicion hilo 3 lamport=1490
+
+[Nodo: cliente-17 | Lamport: 10915] Edicion hilo 17 lamport=1499
+
+[Nodo: cliente-28 | Lamport: 10920] Edicion hilo 28 lamport=1486
+
+[Nodo: cliente-20 | Lamport: 10921] Edicion hilo 20 lamport=1476
+
+[Nodo: cliente-30 | Lamport: 10940] Edicion hilo 30 lamport=1495
+
+[Nodo: cliente-9 | Lamport: 10982] Edicion hilo 9 lamport=1504
+
+[Nodo: cliente-45 | Lamport: 10992] Edicion hilo 45 lamport=1485
+
+[Nodo: cliente-31 | Lamport: 11008] Edicion hilo 31 lamport=1496
+
+[Nodo: cliente-5 | Lamport: 10990] Edicion hilo 5 lamport=1474
+
+[Nodo: cliente-34 | Lamport: 11010] Edicion hilo 34 lamport=1500
+
+[Nodo: cliente-29 | Lamport: 11015] Edicion hilo 29 lamport=1508
+
+[Nodo: cliente-0 | Lamport: 10997] Edicion hilo 0 lamport=1512
+
+[Nodo: cliente-46 | Lamport: 11013] Edicion hilo 46 lamport=1498
+
+[Nodo: cliente-6 | Lamport: 11087] Edicion hilo 6 lamport=1511
+
+[Nodo: cliente-41 | Lamport: 11053] Edicion hilo 41 lamport=1506
+
+[Nodo: cliente-40 | Lamport: 11133] Edicion hilo 40 lamport=1532
+
+[Nodo: cliente-3 | Lamport: 11140] Edicion hilo 3 lamport=1534
+
+[Nodo: cliente-15 | Lamport: 11139] Edicion hilo 15 lamport=1520
+
+[Nodo: cliente-36 | Lamport: 11146] Edicion hilo 36 lamport=1517
+
+[Nodo: cliente-23 | Lamport: 11169] Edicion hilo 23 lamport=1516
+
+[Nodo: cliente-21 | Lamport: 11177] Edicion hilo 21 lamport=1523
+
+[Nodo: cliente-38 | Lamport: 11178] Edicion hilo 38 lamport=1509
+
+[Nodo: cliente-12 | Lamport: 11181] Edicion hilo 12 lamport=1519
+
+[Nodo: cliente-20 | Lamport: 11183] Edicion hilo 20 lamport=1526
+
+[Nodo: cliente-44 | Lamport: 11208] Edicion hilo 44 lamport=1527
+
+[Nodo: cliente-37 | Lamport: 11222] Edicion hilo 37 lamport=1533
+
+[Nodo: cliente-14 | Lamport: 11227] Edicion hilo 14 lamport=1538
+
+[Nodo: cliente-13 | Lamport: 11220] Edicion hilo 13 lamport=1541
+
+[Nodo: cliente-22 | Lamport: 11257] Edicion hilo 22 lamport=1547
+
+[Nodo: cliente-9 | Lamport: 11262] Edicion hilo 9 lamport=1550
+
+[Nodo: cliente-39 | Lamport: 11329] Edicion hilo 39 lamport=1537
+
+[Nodo: cliente-24 | Lamport: 11322] Edicion hilo 24 lamport=1546
+
+[Nodo: cliente-25 | Lamport: 11291] Edicion hilo 25 lamport=1553
+
+[Nodo: cliente-8 | Lamport: 11308] Edicion hilo 8 lamport=1536
+
+[Nodo: cliente-5 | Lamport: 11342] Edicion hilo 5 lamport=1540
+
+[Nodo: cliente-0 | Lamport: 11344] Edicion hilo 0 lamport=1551
+
+[Nodo: cliente-49 | Lamport: 11347] Edicion hilo 49 lamport=1543
+
+[Nodo: cliente-1 | Lamport: 11349] Edicion hilo 1 lamport=1539
+
+[Nodo: cliente-46 | Lamport: 11379] Edicion hilo 46 lamport=1556
+
+[Nodo: cliente-45 | Lamport: 11381] Edicion hilo 45 lamport=1552
+
+[Nodo: cliente-17 | Lamport: 11420] Edicion hilo 17 lamport=1563
+
+[Nodo: cliente-6 | Lamport: 11438] Edicion hilo 6 lamport=1559
+
+[Nodo: cliente-20 | Lamport: 11452] Edicion hilo 20 lamport=1570
+
+[Nodo: cliente-27 | Lamport: 11469] Edicion hilo 27 lamport=1568
+
+[Nodo: cliente-12 | Lamport: 11461] Edicion hilo 12 lamport=1569
+
+[Nodo: cliente-16 | Lamport: 11467] Edicion hilo 16 lamport=1561
+
+[Nodo: cliente-15 | Lamport: 11507] Edicion hilo 15 lamport=1567
+
+[Nodo: cliente-7 | Lamport: 11518] Edicion hilo 7 lamport=1575
+
+[Nodo: cliente-33 | Lamport: 11559] Edicion hilo 33 lamport=1593
+
+[Nodo: cliente-41 | Lamport: 11565] Edicion hilo 41 lamport=1574
+
+[Nodo: cliente-43 | Lamport: 11567] Edicion hilo 43 lamport=1578
+
+[Nodo: cliente-14 | Lamport: 11589] Edicion hilo 14 lamport=1587
+
+[Nodo: cliente-4 | Lamport: 11591] Edicion hilo 4 lamport=1580
+
+[Nodo: cliente-11 | Lamport: 11624] Edicion hilo 11 lamport=1586
+
+[Nodo: cliente-31 | Lamport: 11618] Edicion hilo 31 lamport=1583
+
+[Nodo: cliente-23 | Lamport: 11642] Edicion hilo 23 lamport=1588
+
+[Nodo: cliente-21 | Lamport: 11643] Edicion hilo 21 lamport=1581
+
+[Nodo: cliente-26 | Lamport: 11666] Edicion hilo 26 lamport=1603
+
+[Nodo: cliente-30 | Lamport: 11677] Edicion hilo 30 lamport=1596
+
+[Nodo: cliente-18 | Lamport: 11696] Edicion hilo 18 lamport=1608
+
+[Nodo: cliente-0 | Lamport: 11712] Edicion hilo 0 lamport=1594
+
+[Nodo: cliente-8 | Lamport: 11719] Edicion hilo 8 lamport=1582
+
+[Nodo: cliente-34 | Lamport: 11726] Edicion hilo 34 lamport=1598
+
+[Nodo: cliente-44 | Lamport: 11733] Edicion hilo 44 lamport=1602
+
+[Nodo: cliente-24 | Lamport: 11737] Edicion hilo 24 lamport=1589
+
+[Nodo: cliente-32 | Lamport: 11750] Edicion hilo 32 lamport=1614
+
+[Nodo: cliente-9 | Lamport: 11762] Edicion hilo 9 lamport=1592
+
+[Nodo: cliente-45 | Lamport: 11769] Edicion hilo 45 lamport=1597
+
+[Nodo: cliente-27 | Lamport: 11785] Edicion hilo 27 lamport=1607
+
+[Nodo: cliente-48 | Lamport: 11798] Edicion hilo 48 lamport=1616
+
+[Nodo: cliente-3 | Lamport: 11826] Edicion hilo 3 lamport=1612
+
+[Nodo: cliente-22 | Lamport: 11838] Edicion hilo 22 lamport=1618
+
+[Nodo: cliente-15 | Lamport: 11880] Edicion hilo 15 lamport=1617
+
+[Nodo: cliente-42 | Lamport: 11926] Edicion hilo 42 lamport=1621
+
+[Nodo: cliente-41 | Lamport: 11950] Edicion hilo 41 lamport=1626
+
+[Nodo: cliente-29 | Lamport: 11935] Edicion hilo 29 lamport=1631
+
+[Nodo: cliente-17 | Lamport: 11944] Edicion hilo 17 lamport=1630
+
+[Nodo: cliente-38 | Lamport: 11949] Edicion hilo 38 lamport=1627
+
+[Nodo: cliente-47 | Lamport: 11962] Edicion hilo 47 lamport=1615
+
+[Nodo: cliente-18 | Lamport: 11967] Edicion hilo 18 lamport=1638
+
+[Nodo: cliente-44 | Lamport: 11977] Edicion hilo 44 lamport=1637
+
+[Nodo: cliente-21 | Lamport: 12015] Edicion hilo 21 lamport=1629
+
+[Nodo: cliente-37 | Lamport: 12017] Edicion hilo 37 lamport=1632
+
+[Nodo: cliente-30 | Lamport: 12101] Edicion hilo 30 lamport=1660
+
+[Nodo: cliente-35 | Lamport: 12079] Edicion hilo 35 lamport=1623
+
+[Nodo: cliente-8 | Lamport: 12031] Edicion hilo 8 lamport=1653
+
+[Nodo: cliente-40 | Lamport: 12063] Edicion hilo 40 lamport=1647
+
+[Nodo: cliente-11 | Lamport: 12070] Edicion hilo 11 lamport=1642
+
+[Nodo: cliente-19 | Lamport: 12071] Edicion hilo 19 lamport=1641
+
+[Nodo: cliente-1 | Lamport: 12112] Edicion hilo 1 lamport=1652
+
+[Nodo: cliente-43 | Lamport: 12114] Edicion hilo 43 lamport=1651
+
+[Nodo: cliente-28 | Lamport: 12082] Edicion hilo 28 lamport=1628
+
+[Nodo: cliente-2 | Lamport: 12105] Edicion hilo 2 lamport=1643
+
+[Nodo: cliente-12 | Lamport: 12134] Edicion hilo 12 lamport=1649
+
+[Nodo: cliente-49 | Lamport: 12151] Edicion hilo 49 lamport=1666
+
+[Nodo: cliente-45 | Lamport: 12156] Edicion hilo 45 lamport=1655
+
+[Nodo: cliente-22 | Lamport: 12157] Edicion hilo 22 lamport=1663
+
+[Nodo: cliente-33 | Lamport: 12160] Edicion hilo 33 lamport=1658
+
+[Nodo: cliente-15 | Lamport: 12180] Edicion hilo 15 lamport=1667
+
+[Nodo: cliente-34 | Lamport: 12220] Edicion hilo 34 lamport=1659
+
+[Nodo: cliente-20 | Lamport: 12188] Edicion hilo 20 lamport=1668
+
+[Nodo: cliente-31 | Lamport: 12260] Edicion hilo 31 lamport=1677
+
+[Nodo: cliente-29 | Lamport: 12270] Edicion hilo 29 lamport=1671
+
+[Nodo: cliente-44 | Lamport: 12293] Edicion hilo 44 lamport=1670
+
+[Nodo: cliente-36 | Lamport: 12305] Edicion hilo 36 lamport=1664
+
+[Nodo: cliente-41 | Lamport: 12312] Edicion hilo 41 lamport=1672
+
+[Nodo: cliente-48 | Lamport: 12327] Edicion hilo 48 lamport=1661
+
+[Nodo: cliente-16 | Lamport: 12323] Edicion hilo 16 lamport=1673
+
+[Nodo: cliente-23 | Lamport: 12350] Edicion hilo 23 lamport=1675
+
+[Nodo: cliente-19 | Lamport: 12354] Edicion hilo 19 lamport=1685
+
+[Nodo: cliente-47 | Lamport: 12368] Edicion hilo 47 lamport=1679
+
+[Nodo: cliente-38 | Lamport: 12406] Edicion hilo 38 lamport=1678
+
+[Nodo: cliente-12 | Lamport: 12412] Edicion hilo 12 lamport=1701
+
+[Nodo: cliente-0 | Lamport: 12419] Edicion hilo 0 lamport=1681
+
+[Nodo: cliente-25 | Lamport: 12385] Edicion hilo 25 lamport=1693
+
+[Nodo: cliente-10 | Lamport: 12399] Edicion hilo 10 lamport=1680
+
+[Nodo: cliente-18 | Lamport: 12459] Edicion hilo 18 lamport=1688
+
+[Nodo: cliente-39 | Lamport: 12462] Edicion hilo 39 lamport=1690
+
+[Nodo: cliente-1 | Lamport: 12486] Edicion hilo 1 lamport=1708
+
+[Nodo: cliente-28 | Lamport: 12491] Edicion hilo 28 lamport=1705
+
+[Nodo: cliente-43 | Lamport: 12525] Edicion hilo 43 lamport=1698
+
+[Nodo: cliente-8 | Lamport: 12532] Edicion hilo 8 lamport=1686
+
+[Nodo: cliente-32 | Lamport: 12540] Edicion hilo 32 lamport=1702
+
+[Nodo: cliente-4 | Lamport: 12553] Edicion hilo 4 lamport=1709
+
+[Nodo: cliente-16 | Lamport: 12582] Edicion hilo 16 lamport=1715
+
+[Nodo: cliente-33 | Lamport: 12612] Edicion hilo 33 lamport=1706
+
+[Nodo: cliente-15 | Lamport: 12610] Edicion hilo 15 lamport=1712
+
+[Nodo: cliente-36 | Lamport: 12630] Edicion hilo 36 lamport=1723
+
+[Nodo: cliente-48 | Lamport: 12608] Edicion hilo 48 lamport=1716
+
+[Nodo: cliente-35 | Lamport: 12654] Edicion hilo 35 lamport=1722
+
+[Nodo: cliente-34 | Lamport: 12669] Edicion hilo 34 lamport=1717
+
+[Nodo: cliente-38 | Lamport: 12709] Edicion hilo 38 lamport=1736
+
+[Nodo: cliente-22 | Lamport: 12683] Edicion hilo 22 lamport=1729
+
+[Nodo: cliente-24 | Lamport: 12699] Edicion hilo 24 lamport=1735
+
+[Nodo: cliente-47 | Lamport: 12714] Edicion hilo 47 lamport=1724
+
+[Nodo: cliente-26 | Lamport: 12715] Edicion hilo 26 lamport=1718
+
+[Nodo: cliente-29 | Lamport: 12689] Edicion hilo 29 lamport=1714
+
+[Nodo: cliente-12 | Lamport: 12713] Edicion hilo 12 lamport=1737
+
+[Nodo: cliente-0 | Lamport: 12753] Edicion hilo 0 lamport=1734
+
+[Nodo: cliente-2 | Lamport: 12779] Edicion hilo 2 lamport=1747
+
+[Nodo: cliente-37 | Lamport: 12806] Edicion hilo 37 lamport=1745
+
+[Nodo: cliente-23 | Lamport: 12758] Edicion hilo 23 lamport=1730
+
+[Nodo: cliente-43 | Lamport: 12766] Edicion hilo 43 lamport=1748
+
+[Nodo: cliente-18 | Lamport: 12872] Edicion hilo 18 lamport=1739
+
+[Nodo: cliente-25 | Lamport: 12915] Edicion hilo 25 lamport=1733
+
+[Nodo: cliente-1 | Lamport: 12904] Edicion hilo 1 lamport=1760
+
+[Nodo: cliente-46 | Lamport: 12912] Edicion hilo 46 lamport=1751
+
+[Nodo: cliente-30 | Lamport: 12914] Edicion hilo 30 lamport=1755
+
+[Nodo: cliente-7 | Lamport: 12949] Edicion hilo 7 lamport=1756
+
+[Nodo: cliente-8 | Lamport: 12961] Edicion hilo 8 lamport=1759
+
+[Nodo: cliente-14 | Lamport: 12997] Edicion hilo 14 lamport=1777
+
+[Nodo: cliente-38 | Lamport: 13002] Edicion hilo 38 lamport=1780
+
+[Nodo: cliente-45 | Lamport: 12981] Edicion hilo 45 lamport=1770
+
+[Nodo: cliente-40 | Lamport: 12969] Edicion hilo 40 lamport=1772
+
+[Nodo: cliente-20 | Lamport: 12987] Edicion hilo 20 lamport=1761
+
+[Nodo: cliente-22 | Lamport: 13018] Edicion hilo 22 lamport=1766
+
+[Nodo: cliente-35 | Lamport: 12974] Edicion hilo 35 lamport=1773
+
+[Nodo: cliente-39 | Lamport: 13008] Edicion hilo 39 lamport=1781
+
+[Nodo: cliente-11 | Lamport: 13059] Edicion hilo 11 lamport=1778
+
+[Nodo: cliente-33 | Lamport: 13101] Edicion hilo 33 lamport=1763
+
+[Nodo: cliente-5 | Lamport: 13064] Edicion hilo 5 lamport=1774
+
+[Nodo: cliente-4 | Lamport: 13076] Edicion hilo 4 lamport=1788
+
+[Nodo: cliente-6 | Lamport: 13096] Edicion hilo 6 lamport=1768
+
+[Nodo: cliente-15 | Lamport: 13097] Edicion hilo 15 lamport=1762
+
+[Nodo: cliente-47 | Lamport: 13114] Edicion hilo 47 lamport=1779
+
+[Nodo: cliente-37 | Lamport: 13152] Edicion hilo 37 lamport=1798
+
+[Nodo: cliente-28 | Lamport: 13198] Edicion hilo 28 lamport=1784
+
+[Nodo: cliente-39 | Lamport: 13234] Edicion hilo 39 lamport=1809
+
+[Nodo: cliente-34 | Lamport: 13247] Edicion hilo 34 lamport=1802
+
+[Nodo: cliente-42 | Lamport: 13243] Edicion hilo 42 lamport=1807
+
+[Nodo: cliente-1 | Lamport: 13251] Edicion hilo 1 lamport=1804
+
+[Nodo: cliente-17 | Lamport: 13245] Edicion hilo 17 lamport=1801
+
+[Nodo: cliente-18 | Lamport: 13273] Edicion hilo 18 lamport=1805
+
+[Nodo: cliente-45 | Lamport: 13278] Edicion hilo 45 lamport=1813
+
+[Nodo: cliente-11 | Lamport: 13334] Edicion hilo 11 lamport=1823
+
+[Nodo: cliente-32 | Lamport: 13293] Edicion hilo 32 lamport=1790
+
+[Nodo: cliente-48 | Lamport: 13295] Edicion hilo 48 lamport=1792
+
+[Nodo: cliente-21 | Lamport: 13310] Edicion hilo 21 lamport=1789
+
+[Nodo: cliente-49 | Lamport: 13313] Edicion hilo 49 lamport=1799
+
+[Nodo: cliente-4 | Lamport: 13373] Edicion hilo 4 lamport=1828
+
+[Nodo: cliente-8 | Lamport: 13416] Edicion hilo 8 lamport=1815
+
+[Nodo: cliente-20 | Lamport: 13418] Edicion hilo 20 lamport=1816
+
+[Nodo: cliente-35 | Lamport: 13420] Edicion hilo 35 lamport=1817
+
+[Nodo: cliente-41 | Lamport: 13422] Edicion hilo 41 lamport=1822
+
+[Nodo: cliente-30 | Lamport: 13441] Edicion hilo 30 lamport=1806
+
+[Nodo: cliente-7 | Lamport: 13423] Edicion hilo 7 lamport=1821
+
+[Nodo: cliente-16 | Lamport: 13439] Edicion hilo 16 lamport=1819
+
+[Nodo: cliente-25 | Lamport: 13446] Edicion hilo 25 lamport=1800
+
+[Nodo: cliente-5 | Lamport: 13427] Edicion hilo 5 lamport=1835
+
+[Nodo: cliente-13 | Lamport: 13443] Edicion hilo 13 lamport=1818
+
+[Nodo: cliente-40 | Lamport: 13449] Edicion hilo 40 lamport=1811
+
+[Nodo: cliente-6 | Lamport: 13403] Edicion hilo 6 lamport=1831
+
+[Nodo: cliente-14 | Lamport: 13414] Edicion hilo 14 lamport=1814
+
+[Nodo: cliente-23 | Lamport: 13478] Edicion hilo 23 lamport=1830
+
+[Nodo: cliente-3 | Lamport: 13542] Edicion hilo 3 lamport=1839
+
+[Nodo: cliente-19 | Lamport: 13543] Edicion hilo 19 lamport=1837
+
+[Nodo: cliente-0 | Lamport: 13571] Edicion hilo 0 lamport=1852
+
+[Nodo: cliente-22 | Lamport: 13564] Edicion hilo 22 lamport=1847
+
+[Nodo: cliente-15 | Lamport: 13553] Edicion hilo 15 lamport=1836
+
+[Nodo: cliente-34 | Lamport: 13593] Edicion hilo 34 lamport=1842
+
+[Nodo: cliente-42 | Lamport: 13617] Edicion hilo 42 lamport=1845
+
+[Nodo: cliente-49 | Lamport: 13633] Edicion hilo 49 lamport=1854
+
+[Nodo: cliente-24 | Lamport: 13650] Edicion hilo 24 lamport=1838
+
+[Nodo: cliente-18 | Lamport: 13649] Edicion hilo 18 lamport=1853
+
+[Nodo: cliente-48 | Lamport: 13661] Edicion hilo 48 lamport=1857
+
+[Nodo: cliente-10 | Lamport: 13672] Edicion hilo 10 lamport=1858
+
+[Nodo: cliente-38 | Lamport: 13690] Edicion hilo 38 lamport=1856
+
+[Nodo: cliente-23 | Lamport: 13706] Edicion hilo 23 lamport=1866
+
+[Nodo: cliente-11 | Lamport: 13736] Edicion hilo 11 lamport=1859
+
+[Nodo: cliente-37 | Lamport: 13744] Edicion hilo 37 lamport=1872
+
+[Nodo: cliente-17 | Lamport: 13713] Edicion hilo 17 lamport=1855
+
+[Nodo: cliente-46 | Lamport: 13784] Edicion hilo 46 lamport=1865
+
+[Nodo: cliente-8 | Lamport: 13783] Edicion hilo 8 lamport=1873
+
+[Nodo: cliente-14 | Lamport: 13787] Edicion hilo 14 lamport=1868
+
+[Nodo: cliente-7 | Lamport: 13807] Edicion hilo 7 lamport=1861
+
+[Nodo: cliente-29 | Lamport: 13812] Edicion hilo 29 lamport=1869
+
+[Nodo: cliente-41 | Lamport: 13817] Edicion hilo 41 lamport=1874
+
+[Nodo: cliente-25 | Lamport: 13825] Edicion hilo 25 lamport=1871
+
+[Nodo: cliente-26 | Lamport: 13841] Edicion hilo 26 lamport=1894
+
+[Nodo: cliente-39 | Lamport: 13846] Edicion hilo 39 lamport=1879
+
+[Nodo: cliente-35 | Lamport: 13856] Edicion hilo 35 lamport=1877
+
+[Nodo: cliente-28 | Lamport: 13921] Edicion hilo 28 lamport=1878
+
+[Nodo: cliente-48 | Lamport: 13930] Edicion hilo 48 lamport=1893
+
+[Nodo: cliente-43 | Lamport: 13937] Edicion hilo 43 lamport=1898
+
+[Nodo: cliente-49 | Lamport: 13954] Edicion hilo 49 lamport=1896
+
+[Nodo: cliente-5 | Lamport: 13955] Edicion hilo 5 lamport=1887
+
+[Nodo: cliente-15 | Lamport: 13962] Edicion hilo 15 lamport=1882
+
+[Nodo: cliente-6 | Lamport: 13969] Edicion hilo 6 lamport=1889
+
+[Nodo: cliente-12 | Lamport: 13963] Edicion hilo 12 lamport=1890
+
+[Nodo: cliente-31 | Lamport: 14015] Edicion hilo 31 lamport=1903
+
+[Nodo: cliente-16 | Lamport: 14036] Edicion hilo 16 lamport=1900
+
+[Nodo: cliente-42 | Lamport: 14039] Edicion hilo 42 lamport=1908
+
+[Nodo: cliente-18 | Lamport: 14058] Edicion hilo 18 lamport=1899
+
+[Nodo: cliente-46 | Lamport: 14066] Edicion hilo 46 lamport=1910
+
+[Nodo: cliente-38 | Lamport: 14082] Edicion hilo 38 lamport=1901
+
+[Nodo: cliente-32 | Lamport: 14084] Edicion hilo 32 lamport=1907
+
+[Nodo: cliente-37 | Lamport: 14101] Edicion hilo 37 lamport=1913
+
+[Nodo: cliente-13 | Lamport: 14152] Edicion hilo 13 lamport=1926
+
+[Nodo: cliente-2 | Lamport: 14154] Edicion hilo 2 lamport=1909
+
+[Nodo: cliente-23 | Lamport: 14156] Edicion hilo 23 lamport=1917
+
+[Nodo: cliente-8 | Lamport: 14109] Edicion hilo 8 lamport=1915
+
+[Nodo: cliente-9 | Lamport: 14116] Edicion hilo 9 lamport=1904
+
+[Nodo: cliente-26 | Lamport: 14122] Edicion hilo 26 lamport=1916
+
+[Nodo: cliente-14 | Lamport: 14130] Edicion hilo 14 lamport=1912
+
+[Nodo: cliente-49 | Lamport: 14188] Edicion hilo 49 lamport=1932
+
+[Nodo: cliente-27 | Lamport: 14200] Edicion hilo 27 lamport=1934
+
+[Nodo: cliente-24 | Lamport: 14218] Edicion hilo 24 lamport=1929
+
+[Nodo: cliente-41 | Lamport: 14219] Edicion hilo 41 lamport=1920
+
+[Nodo: cliente-30 | Lamport: 14222] Edicion hilo 30 lamport=1931
+
+[Nodo: cliente-3 | Lamport: 14231] Edicion hilo 3 lamport=1921
+
+[Nodo: cliente-39 | Lamport: 14233] Edicion hilo 39 lamport=1927
+
+[Nodo: cliente-0 | Lamport: 14242] Edicion hilo 0 lamport=1924
+
+[Nodo: cliente-28 | Lamport: 14272] Edicion hilo 28 lamport=1937
+
+[Nodo: cliente-11 | Lamport: 14278] Edicion hilo 11 lamport=1938
+
+[Nodo: cliente-7 | Lamport: 14285] Edicion hilo 7 lamport=1928
+
+[Nodo: cliente-5 | Lamport: 14341] Edicion hilo 5 lamport=1935
+
+[Nodo: cliente-33 | Lamport: 14348] Edicion hilo 33 lamport=1933
+
+[Nodo: cliente-19 | Lamport: 14369] Edicion hilo 19 lamport=1950
+
+[Nodo: cliente-38 | Lamport: 14390] Edicion hilo 38 lamport=1954
+
+[Nodo: cliente-36 | Lamport: 14402] Edicion hilo 36 lamport=1945
+
+[Nodo: cliente-20 | Lamport: 14404] Edicion hilo 20 lamport=1946
+
+[Nodo: cliente-37 | Lamport: 14415] Edicion hilo 37 lamport=1949
+
+[Nodo: cliente-32 | Lamport: 14423] Edicion hilo 32 lamport=1957
+
+[Nodo: cliente-2 | Lamport: 14442] Edicion hilo 2 lamport=1960
+
+[Nodo: cliente-14 | Lamport: 14451] Edicion hilo 14 lamport=1962
+
+[Nodo: cliente-39 | Lamport: 14466] Edicion hilo 39 lamport=1963
+
