@@ -236,20 +236,46 @@ public class GeneradorCargaDrive {
         if (pidFile.exists()) {
             try {
                 String pid = Files.readString(pidFile.toPath()).trim();
-                new ProcessBuilder("kill", "-9", pid).start().waitFor();
+                detenerProcesoPorPid(pid);
                 System.out.println(">>> Nodo detenido via PID " + pid + " <<<");
                 return;
             } catch (Exception e) {
-                System.err.println("Fallo kill por PID: " + e.getMessage());
+                System.err.println("Fallo detencion por PID: " + e.getMessage());
             }
         }
 
-        try {
-            new ProcessBuilder("pkill", "-9", "-f", "StorageServer " + nodoFalla).start().waitFor();
-            System.out.println(">>> Nodo detenido via pkill <<<");
-        } catch (Exception e) {
-            System.err.println("No se pudo detener " + nodoFalla + ": " + e.getMessage());
+        if (detenerProcesoPorEscaneo(nodoFalla)) {
+            System.out.println(">>> Nodo detenido via escaneo de procesos <<<");
+        } else {
+            System.err.println("No se pudo detener " + nodoFalla);
         }
+    }
+
+    private static void detenerProcesoPorPid(String pidStr) {
+        long pid = Long.parseLong(pidStr.trim());
+        ProcessHandle.of(pid).ifPresentOrElse(
+                ph -> {
+                    ph.destroyForcibly();
+                    ph.onExit().join();
+                },
+                () -> {
+                    throw new IllegalStateException("PID no encontrado: " + pid);
+                });
+    }
+
+    private static boolean detenerProcesoPorEscaneo(String nodoFalla) {
+        String needle = "StorageServer " + nodoFalla;
+        var targets = ProcessHandle.allProcesses()
+                .filter(ph -> ph.info().commandLine().map(cmd -> cmd.contains(needle)).orElse(false))
+                .toList();
+        if (targets.isEmpty()) {
+            return false;
+        }
+        for (ProcessHandle ph : targets) {
+            ph.destroyForcibly();
+            ph.onExit().join();
+        }
+        return true;
     }
 
     private static void medirRecuperacion(String nodoFalla) {

@@ -5,3 +5,7 @@ Codigo/DriveSimplificado/eventos_nodo*.log
 Codigo/DriveSimplificado/storage_data_nodo*/
 Codigo/DriveSimplificado/storage_data/
 *.class
+.cursor
+*.pdf
+.vscode
+*.log

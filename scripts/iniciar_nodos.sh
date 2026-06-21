@@ -8,6 +8,7 @@ PID_DIR="$MODULO/.pids"
 
 cd "$MODULO"
 mkdir -p "$PID_DIR" logs target/classes
+rm -f "$PID_DIR"/*.pid 2>/dev/null || true
 
 if [ ! -f keystore.jks ]; then
   echo "Generando keystore.jks..."
@@ -40,6 +41,6 @@ run_nodo nodo3
 sleep 2
 
 echo ""
-echo "Cluster iniciado. Puertos datos: 9000-9002 | control: 9100-9102"
+echo "Cluster iniciado. Puertos datos: 9000-9002 | control: 9100-9102 | mutex: 9200-9202"
 echo "PIDs en $PID_DIR/"
-echo "Detener: pkill -f StorageServer  o  kill \$(cat $PID_DIR/nodo1.pid) ..."
+echo "Detener: ./scripts/detener_nodos.sh"
