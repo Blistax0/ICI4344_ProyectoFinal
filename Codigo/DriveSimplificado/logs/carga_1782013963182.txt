@@ -1,0 +1,9 @@
+GeneradorCargaDrive - corrida Sat Jun 20 23:52:43 GMT-04:00 2026
+nodo_falla_inducida=nodo2
+throughput_req_s=0,93
+latencia_promedio_ms=124,49
+latencia_p95_ms=361
+exitosas=70
+fallidas=0
+tiempo_recuperacion_ms=-1
+msgs_coordinacion=170

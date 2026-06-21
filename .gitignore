@@ -1,13 +1,2 @@
-Codigo/DriveSimplificado/target/
-Codigo/DriveSimplificado/logs/
-Codigo/DriveSimplificado/.pids/
-Codigo/DriveSimplificado/eventos_nodo*.log
-Codigo/DriveSimplificado/storage_data_nodo*/
-Codigo/DriveSimplificado/storage_data/
 *.class
-.cursor
-*.pdf
-.vscode
-*.log
-.gitignore
-Felipe_Chavez_Recorreccion_Proyecto_Parcial_ICI4344(1).xlsx
+target/

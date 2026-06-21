@@ -1,0 +1,60 @@
+[Coordinación] nodo1 escuchando en puerto 9100
+-> NODO1 iniciado (Puerto clientes: 9000)
+[46] ---> Nodo nodo1 ENTRA a (carga_h2_35007323037400.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[50] <--- Nodo nodo1 SALE de (carga_h2_35007323037400.txt)
+[54] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[98] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[98] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[98] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[98] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[98] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[104] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[104] ---> Nodo nodo1 ENTRA a (documento_carga.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[124] ---> Nodo nodo1 ENTRA a (carga_h49_35007324378900.txt)
+[128] ---> Nodo nodo1 ENTRA a (carga_h43_35007322103800.txt)
+[129] <--- Nodo nodo1 SALE de (carga_h49_35007324378900.txt)
+[131] <--- Nodo nodo1 SALE de (carga_h43_35007322103800.txt)
+[132] ---> Nodo nodo1 ENTRA a (carga_h25_35007324158500.txt)
+[133] <--- Nodo nodo1 SALE de (carga_h25_35007324158500.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[147] ---> Nodo nodo1 ENTRA a (carga_h38_35007753294900.txt)
+[148] <--- Nodo nodo1 SALE de (carga_h38_35007753294900.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[158] ---> Nodo nodo1 ENTRA a (carga_h21_35007790564800.txt)
+[159] <--- Nodo nodo1 SALE de (carga_h21_35007790564800.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[168] ---> Nodo nodo1 ENTRA a (carga_h33_35007813245400.txt)
+[169] <--- Nodo nodo1 SALE de (carga_h33_35007813245400.txt)
+[175] ---> Nodo nodo1 ENTRA a (carga_h42_35007816250100.txt)
+[178] <--- Nodo nodo1 SALE de (carga_h42_35007816250100.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[185] ---> Nodo nodo1 ENTRA a (carga_h2_35007818762200.txt)
+[186] <--- Nodo nodo1 SALE de (carga_h2_35007818762200.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[196] ---> Nodo nodo1 ENTRA a (carga_h7_35007831291500.txt)
+[197] <--- Nodo nodo1 SALE de (carga_h7_35007831291500.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[222] ---> Nodo nodo1 ENTRA a (carga_h2_35007913547400.txt)
+[223] <--- Nodo nodo1 SALE de (carga_h2_35007913547400.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[280] ---> Nodo nodo1 ENTRA a (carga_h22_35008130927400.txt)
+[281] <--- Nodo nodo1 SALE de (carga_h22_35008130927400.txt)
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo3
+[Ricart-Agrawala] nodo1 DIFIERE a nodo2
