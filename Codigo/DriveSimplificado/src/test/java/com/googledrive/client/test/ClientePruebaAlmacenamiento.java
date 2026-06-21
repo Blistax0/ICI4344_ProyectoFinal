@@ -1,5 +1,7 @@
 package com.googledrive.client.test;
 
+import com.googledrive.core.config.ConfiguracionRed;
+import com.googledrive.core.config.NodoInfo;
 import com.googledrive.core.models.PeticionArchivo;
 import com.googledrive.core.utils.Utils;
 import java.io.*;
@@ -7,58 +9,48 @@ import java.net.Socket;
 import javax.net.ssl.SSLSocketFactory;
 
 public class ClientePruebaAlmacenamiento {
-    private static final String HOST = "127.0.0.1";
-    private static final int PUERTO = 9000;
+    public static void main(String[] args) throws Exception {
+        String configPath = args.length >= 1 ? args[0] : "nodos.txt";
+        ConfiguracionRed config = ConfiguracionRed.cargar(configPath);
+        NodoInfo nodo = config.getNodo("nodo1");
 
-    public static void main(String[] args) {
-        // Configuramos el trustStore para confiar en el certificado autofirmado del servidor local
         System.setProperty("javax.net.ssl.trustStore", "keystore.jks");
         System.setProperty("javax.net.ssl.trustStorePassword", "password");
 
-        System.out.println("Iniciando prueba de red TLS (Cliente -> Nodo de Almacenamiento)...");
-        ejecutarPruebaSubida();
+        System.out.println("Iniciando prueba de red TLS (Cliente -> " + nodo.getId() + ")...");
+        ejecutarPruebaSubida(nodo);
     }
 
-    private static void ejecutarPruebaSubida() {
+    private static void ejecutarPruebaSubida(NodoInfo nodo) {
         SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
-        
-        // Se utiliza try-with-resources para garantizar el cierre del Socket seguro
-        try (Socket socket = ssf.createSocket(HOST, PUERTO);
+
+        try (Socket socket = ssf.createSocket(nodo.getHost(), nodo.getPuertoDatos());
              OutputStream out = socket.getOutputStream();
              InputStream in = socket.getInputStream();
-             // El ObjectOutputStream debe inicializarse ANTES que el ObjectInputStream para evitar bloqueos
              ObjectOutputStream oos = new ObjectOutputStream(out);
              ObjectInputStream ois = new ObjectInputStream(in)) {
 
-            // 1. Generar un archivo simulado en memoria
-            String contenidoSimulado = "Este es un flujo de bytes de prueba para el sistema distribuido. Archivo generado correctamente.";
+            String contenidoSimulado = "Este es un flujo de bytes de prueba para el sistema distribuido.";
             byte[] bytesArchivo = contenidoSimulado.getBytes();
             String nombreArchivo = "prueba_conexion.txt";
 
-            System.out.println("Conectado al servidor TLS. Transfiriendo archivo: " + nombreArchivo);
-
-            // 2. Transmisión de Control (Marshalling avanzado con Checksum)
             String md5 = Utils.calcularChecksum(bytesArchivo);
             PeticionArchivo peticion = new PeticionArchivo(
-                PeticionArchivo.Operacion.SUBIR, 
-                nombreArchivo, 
-                bytesArchivo.length
-            );
+                PeticionArchivo.Operacion.SUBIR, nombreArchivo, bytesArchivo.length);
             peticion.setChecksum(md5);
-            
+            peticion.setTimestampLamport(1);
+            peticion.setNodeIdOrigen("cliente-test");
+
             oos.writeObject(peticion);
             oos.flush();
-
-            // 3. Transmisión de Datos Binarios
             out.write(bytesArchivo);
             out.flush();
 
-            // 4. Recepción de Confirmación
             String respuestaServidor = ois.readUTF();
             System.out.println("Respuesta del servidor: " + respuestaServidor);
 
         } catch (IOException e) {
-            System.err.println("Fallo en la conexión segura de red: " + e.getMessage());
+            System.err.println("Fallo en la conexion segura de red: " + e.getMessage());
         }
     }
 }
