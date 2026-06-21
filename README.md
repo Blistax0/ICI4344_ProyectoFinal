@@ -18,14 +18,17 @@ Ricart usa puertos dedicados **9200-9202** (TCP plano). Bully, heartbeats y repl
 
 ## Requisitos
 
-- Java 17+
+- Java 17+ (JDK 21 recomendado para las pruebas del equipo)
 - Maven 3.x (opcional; los scripts usan `javac` como fallback)
 - `keytool` (JDK)
+
+Descarga JDK: https://www.oracle.com/latam/java/technologies/downloads/
 
 ## Configuracion
 
 - [`nodos.txt`](nodos.txt): membresia del cluster (`id=host:puertoDatos:puertoControl:puertoMutex`)
-- Keystore TLS: `password`
+- Keystore TLS (`Codigo/DriveSimplificado/keystore.jks`): contraseña `password`
+- Se genera automaticamente al ejecutar `scripts/iniciar_nodos.sh` si no existe
 
 ## Demo en vivo (Requisito 4.8)
 
@@ -71,7 +74,23 @@ pkill -f StorageServer
 | Tasa de error pre/post falla | Consola + `logs/carga_*.txt` |
 | Tiempo de recuperacion | Consola + `logs/carga_*.txt` |
 
-## Ejecucion manual
+## Pruebas manuales
+
+Con los 3 nodos levantados (`./scripts/iniciar_nodos.sh`), desde `Codigo/DriveSimplificado`:
+
+```bash
+# Compilar todo
+find src/main/java -name "*.java" | sort | xargs javac -d target/classes -encoding UTF-8
+find src/test/java -name "*.java" | sort | xargs javac -cp target/classes -d target/classes -encoding UTF-8
+
+# Probar SUBIR (funcion 1)
+java -cp target/classes com.googledrive.client.test.ClientePruebaAlmacenamiento ../../nodos.txt
+
+# Probar EDITAR concurrente con Lamport + Ricart (funcion 2)
+java -cp target/classes com.googledrive.client.sync.ClientePruebaSincronizacion ../../nodos.txt
+```
+
+## Ejecucion manual de un nodo
 
 ```bash
 cd Codigo/DriveSimplificado
